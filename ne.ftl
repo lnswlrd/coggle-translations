@@ -633,66 +633,62 @@ awesome-hint-orgs =
   If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
 
 
-# Login Page /login
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+# लगइन पृष्ठ / लगइन
+login-heading = Coggle मा साइन इन गर्नुहोस्:
+index-loginwithgoogle = गुगलसँग साइन इन गर्नुहोस्
+index-signinwithapple = एप्पलसँग साइन इन गर्नुहोस्
 
-login-no-acc-q = Don't have a Google or Microsoft Account?
-login-no-acc-a = No problem! You can create a Google or Microsoft Account with any email address. A Gmail or Outlook account is <b>not</b> required.
+login-title = Coggle - Mind Mapping सुरु गर्न साइन इन गर्नुहोस्
 
-login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
-login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
-login-saml-more = Read more about Single Sign On.
+signin-by-email = इमेल ठेगानाद्वारा साइन इन गर्नुहोस्
+sign-in = साइन इन
 
-login-faq = Frequently Asked Questions
-login-pw-q = Why can't I create a username and password?
-login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-    Sign in with Apple. We believe this is the best way to keep your data safe,
-    as these companies all provide very secure sign-in services, which support
-    two-factor authentication and other account protection options.
+login-saml = हामीले OneLogin, Okta, र अन्य SAML 2.0 पहिचान प्रदायकहरूको साथ Coggle संगठनहरूको लागि इन्टरप्राइज ग्रेड लगइनलाई पनि समर्थन गर्छौं।
+login-saml-where = यदि तपाइँ एकल-साइन अन प्रयोगकर्ता हुनुहुन्छ भने, तपाइँको संगठनको प्रशासक द्वारा साझा गरिएको पृष्ठ प्रयोग गरेर लग इन गर्नुहोस्।
+login-saml-more = एकल साइन अनको बारेमा थप पढ्नुहोस्।
 
-login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-    intricacy: password recovery, 2-factor authentication, fraud detection,
-    brute-force attack detection, and securely storing hashed and salted
-    passwords. We believe that leaving these tasks to an external provider is
-    the right thing to do – leaving us more time to focus on creating a great
-    mind-mapping experience.
+login-faq = बारम्बार सोधिने प्रश्नहरू
+login-colab = के म सहकर्मीहरूसँग सहकार्य गर्न सक्छु?
+login-colab-a = सहयोग गर्नुहोस् र आफ्ना सहकर्मीहरूको परिवर्तनहरू तिनीहरूको रूपमा हेर्नुहोस् 
+    तिनीहरूलाई बनाउनुहोस्! इमेल मार्फत सहयोगीहरूलाई आमन्त्रित गर्नुहोस्, र कसले परिवर्तन गर्न सक्छ भन्ने व्यवस्थापन गर्नुहोस् 
+    रेखाचित्र पृष्ठको शीर्ष दायाँ।
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We don't ask for access to your contacts, emails, Google Drive documents, 
-    or anything else that we don't need to make Coggle work.
+login-free = कोगल फ्री?
+login-free2-a = हो, उत्कृष्ट दिमाग नक्सा सिर्जना गर्न सबै कुरा - कुनै समय सीमा छैन, 
+    वास्तविक समय सहयोग, कुनै आकार सीमा, र अधिक - नि: शुल्क छ। <a 
+    data-l10n-name='pricing'>अतिरिक्त शक्तिशाली सुविधाहरूको लागि अपग्रेड गर्नुहोस्</a> का लागि 
+    पेशेवर र ठूलो टोली।
 
-login-switch-q = Can I switch between login methods?
-login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
-    then you can use any of them to log in to the same Coggle account. 
-    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+login-what-q = तपाईं मेरो Google/Microsoft खातासँग के गर्नुहुन्छ?
+login-what-a2 = हामी तपाईको आधारभूत प्रोफाइल जानकारीमा पहुँचको लागि मात्र सोध्छौं। 
+    यसमा तपाईंको नाम, प्रोफाइल तस्वीर र तपाईंको इमेल ठेगाना समावेश छ। 
+    हामी अरू केहि पहुँच गर्न सक्दैनौं।
 
-login-emails-q = Can you read my emails?
-login-emails-a = No. We don't need, and don't want, access to your emails! 
-    We just request your basic profile information. We don't have access to anything else, 
-    and we can't change any setting on your Google/Microsoft account.
+login-trial = त्यहाँ कुनै परीक्षण छ?
+login-trial-a = तपाईले चाहेको नि:शुल्क संस्करण प्रयोग गर्न सक्नुहुन्छ - त्यहाँ कुनै समय सीमा छैन, र कुनै कार्ड आवश्यक छैन!
+login-trial-a2 = वा अपग्रेड गरिएको संस्करणलाई एक महिनाको लागि नि:शुल्क प्रयास गर्न, तीन जना साथीहरूलाई निमन्त्रणा दिनुहोस् तपाइँसँग तपाइँको दिमागको नक्सा सम्पादन गर्न!
 
-login-icloud-q = Can you access my iCloud?
-login-icloud-a = No! Sign in with Apple just gives us access to your name, 
-    and your email address (if you choose to share it). We don't have access to anything else. 
-    You can read more about how sign in with apple works on 
-    <a data-l10n-name="applehelp"> Apple's website</a>.
+login-switch-q = के म लगइन विधिहरू बीच स्विच गर्न सक्छु?
+login-switch-a = हो! जबसम्म तपाइँ तपाइँको Microsoft/Apple/Google खाताहरूमा उही इमेल ठेगाना प्रयोग गर्नुहुन्छ, 
+    त्यसोभए तपाईंले उही कोगल खातामा लग इन गर्न तिनीहरू मध्ये कुनै पनि प्रयोग गर्न सक्नुहुन्छ। 
+    नोट गर्नुहोस् कि यदि तपाईंले एप्पल लगइनमा 'मेरो इमेल लुकाउनुहोस्' विकल्प रोज्नुभयो भने, त्यसपछि तपाईंको खाता लिङ्क हुने छैन।
 
-login-workschool-q = Can I use my Work or School Microsoft account?
-login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
-    and business-managed Azure Active Directory or Office-365 accounts, 
-    unless your IT team have blocked this feature for accounts they manage.
+login-workschool-q = के म मेरो कार्य वा विद्यालय Microsoft खाता प्रयोग गर्न सक्छु?
+login-workschool-a = हो, तपाईले कुनै पनि Microsoft खाता प्रयोग गर्न सक्नुहुन्छ, दुबै व्यक्तिगत खाताहरू सहित (पहिले Windows Live), 
+    र व्यापार-व्यवस्थित Azure सक्रिय निर्देशिका वा Office-365 खाताहरू, 
+    जबसम्म तपाईंको IT टोलीले तिनीहरूले व्यवस्थापन गर्ने खाताहरूको लागि यो सुविधा रोकेको छैन।
 
-login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
-login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
-    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
-    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+login-otherlogin-q = म Coggle पहुँच गर्न अर्को प्रमाणीकरण प्रदायक प्रयोग गर्न सक्छु?
+login-otherlogin-a-p1 = हाल हामी Google, Microsoft, Apple सँग साइन इन, र व्यक्तिगत खाताहरूको लागि इमेल लगइन समर्थन गर्छौं।
+login-otherlogin-a-p2 = हामी Coggle संगठनहरूको लागि <a data-l10n-name="saml">SAML 2.0 लगइन</a> लाई समर्थन गर्छौं, 
+    र यदि तपाइँ सक्रिय डाइरेक्टरी लगइनको साथ Coggle को तपाइँको आफ्नै संस्करण होस्ट गर्न रुचि राख्नुहुन्छ भने पाउनुहोस् 
+    हाम्रो <a data-l10n-name="email">इन्टरप्राइज बिक्री ठेगाना</a> मा छुनुहोस्।
 
-login-pw-more-q = I've still got a question about login
-login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+login-help = म कहाँ मद्दत वा समर्थन प्राप्त गर्न सक्छु?
+login-help-a = धेरै सचित्र गाइडहरूको लागि <a data-l10n-name='help'>coggle.help</a> मा हाम्रो ज्ञान आधारमा जानुहोस्, वा हामीलाई <a data-l10n-name="email">hello@coggle.it</a> मा इमेल गर्नुहोस्।
+
+login-pw-more-q = मसँग अझै पनि लगइनको बारेमा प्रश्न छ
+login-pw-more-a = हामीलाई सोध्नुहोस्! हाम्रो इमेल हो <a data-l10n-name="email">hello@coggle.it</a>।
 
 # Organizations Landing Page (/organizations) 
 orgs-pitch-title = Coggle Organizations

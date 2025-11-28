@@ -663,11 +663,16 @@ login-saml-where = 如果您是單點登錄使用者，請使用組織管理員�
 login-saml-more = 閱讀有關單點登錄的更多資訊。
 
 login-faq = 常見問題
+login-colab = 我可以與同事合作嗎？
+login-colab-a = 協作並即時查看同事的變更！
+    透過電子郵件邀請協作者，並在圖表頁面右上角管理誰可以進行更改。
+
+
 login-free = Coggle 免費嗎？
-login-free-a = 是的，Coggle 的免費版本包含您創建精彩心智圖所需的一切：
-    即時協作，且無大小限制！
-    付費版本 <a data-l10n-name="pricing">包含額外功能</a>，
-    供專業使用者使用。
+login-free2-a = 是的，創建出色心智圖所需的一切——無時間限制、即時協作、無大小限制等等——都是免費的。
+    <a data-l10n-name='pricing'>升級可獲得更多強大功能</a>，適用於專業人士和大型團隊。
+
+
 
 login-what-q = 你們如何處理我的 Google/Microsoft 帳號？
 login-what-a2 = 我們僅要求存取您的基本個人資料資訊。
@@ -677,6 +682,9 @@ login-what-a2 = 我們僅要求存取您的基本個人資料資訊。
 login-trial = 有試用版嗎？
 login-trial-a = 免費版可以無限期使用，沒有時間限制，也不用銀行卡！
 login-trial-a2 = 或者，想要免費試用升級版一個月，邀請三位朋友一起編輯你的心智圖！
+
+login-help = 我在哪裡可以獲得幫助或支持？
+login-help-a = 請訪問我們的知識庫 <a data-l10n-name='help'>coggle.help</a>，獲取大量圖解指南，或發送電子郵件至 <a data-l10n-name='email'>hello@coggle.it</a>。
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle 組織會員

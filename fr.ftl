@@ -682,11 +682,16 @@ login-saml-where = Si vous utilisez l'authentification unique, connectez-vous à
 login-saml-more = En savoir plus sur l'authentification unique.
 
 login-faq = Foire Aux Questions
+login-colab = Puis-je collaborer avec mes collègues ?
+login-colab-a = Collaborez et visualisez instantanément les modifications
+    apportées par vos collègues ! Invitez-les par e-mail et gérez les droits de
+    modification en haut à droite de la page du diagramme.
+
 login-free = Coggle est-il gratuit ?
-login-free-a = Oui, la version gratuite de Coggle inclut tout ce dont vous avez besoin pour 
-    créer de superbes cartes mentales : collaboration en temps réel et taille illimitée ! 
-    La version payante <a data-l10n-name="pricing">inclut des fonctionnalités 
-    supplémentaires</a> pour les utilisateurs professionnels.
+login-free-a = Oui, tout ce qui permet de créer de superbes cartes mentales –
+    sans limite de temps, collaboration en temps réel, sans limite de taille, et
+    bien plus encore – est gratuit. <a data-l10n-name='pricing'>Mise à niveau pour
+    des fonctionnalités très puissantes</a> pour les professionnels et les grandes équipes.
 
 login-what-q = Que faites-vous avec mon compte Google/Microsoft ?
 login-what-a2 = Nous ne demandons l'accès qu'aux informations de base de votre profil. 
@@ -712,6 +717,9 @@ login-otherlogin-a-p1 = Actuellement, nous prenons en charge Google, Microsoft, 
 login-otherlogin-a-p2 = Nous prenons en charge la <a data-l10n-name="saml">connexion SAML 2.0</a> pour Coggle Organisations.
     Si vous souhaitez héberger votre propre version de Coggle avec connexion Active Directory, contactez-nous 
     via notre <a data-l10n-name="email">adresse commerciale d'entreprise</a>.
+
+login-help = Où puis-je obtenir de l'aide ou du support ?
+login-help-a = Visitez notre base de connaissances à <a data-l10n-name='help'>coggle.help</a> pour découvrir de nombreux guides illustrés, ou envoyez-nous un e-mail à <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = J'ai encore une question sur la connexion
 login-pw-more-a = Demandez-nous ! Notre adresse e-mail est : <a data-l10n-name="email">hello@coggle.it</a>.

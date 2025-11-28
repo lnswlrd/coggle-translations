@@ -706,11 +706,16 @@ login-saml-where = Dacă ești un utilizator cu autentificare unică, autentific
 login-saml-more = Citește mai mult despre autentificarea unică.
 
 login-faq = Întrebări Frecvente
+login-colab = Pot colabora cu colegii?
+login-colab-a = Colaborează și vezi modificările colegilor tăi instantaneu pe
+    măsură ce le fac! Invită colaboratori prin e-mail și gestionează cine poate
+    face modificări în partea dreaptă sus a paginii diagramei.
+
 login-free = Este Coggle gratuit?
-login-free-a = Da, versiunea gratuită de Coggle include tot ce ai 
-    nevoie pentru a crea hărți mentale excelente: cu colaborare în 
-    timp real și fără limite de dimensiune! Versiunea plătită <a data-l10n-name="pricing">include 
-    funcții suplimentare</a> pentru utilizatorii profesioniști.
+login-free2-a = Da, tot ce este necesar pentru a crea hărți mentale excelente –
+    fără limită de timp, colaborare în timp real, fără limită de dimensiune și
+    multe altele – este gratuit. <a data-l10n-name='pricing'>Faceți upgrade pentru
+    funcții extra puternice</a> pentru profesioniști și echipe mari.
 
 login-what-q = Ce faceți cu contul meu Google/Microsoft?
 login-what-a2 = Noi cerem acces doar la informațiile de bază ale profilului tău. 
@@ -736,6 +741,9 @@ login-otherlogin-a-p1 = În prezent, pentru conturile personale oferim suport do
 login-otherlogin-a-p2 = Acceptăm <a data-l10n-name="saml">autentificare SAML 2.0</a> pentru Organizații Coggle, 
     iar dacă ești interesat(ă) să găzduiești propria versiune de Coggle cu autentificare prin Active Directory, atunci 
     contactează <a data-l10n-name="email">adresa pentru vânzări corporate</a>.
+
+login-help = De unde pot obține ajutor sau asistență?
+login-help-a = Vizitați baza noastră de cunoștințe la <a data-l10n-name='help'>coggle.help</a> pentru o mulțime de ghiduri ilustrate sau trimiteți-ne un e-mail la <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = Mai am o întrebare despre autentificare
 login-pw-more-a = Întreabă-ne! E-mail-ul nostru este <a data-l10n-name="email">hello@coggle.it</a>.

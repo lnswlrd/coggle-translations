@@ -661,11 +661,16 @@ login-saml-where = Se você for um usuário de logon único, faça login usando 
 login-saml-more = Leia mais sobre Single Sign On.
 
 login-faq = Perguntas Frequentes
+login-colab = Posso colaborar com colegas?
+login-colab-a = Colabore e veja as alterações dos seus colegas instantaneamente
+    à medida que as fazem! Convide colaboradores por e-mail e gerencie quem pode
+    fazer alterações no canto superior direito da página do diagrama.
+
 login-free = O Coggle é gratuito?
-login-free-a = Sim, a versão gratuita do Coggle inclui tudo o que você precisa para 
-    criar excelentes mapas mentais: com colaboração em tempo real e sem limites de tamanho! A 
-    versão paga <a data-l10n-name="pricing">inclui recursos 
-    extras</a> para usuários profissionais.
+login-free2-a = Sim, tudo para criar ótimos mapas mentais — sem limite de
+    tempo, colaboração em tempo real, sem limite de tamanho e muito mais — é
+    gratuito. <a data-l10n-name='pricing'>Faça um upgrade para obter recursos ainda
+    mais poderosos</a> para profissionais e grandes equipes.
 
 login-what-q = O que vocês fazem com minha conta do Google/Microsoft?
 login-what-a2 = Solicitamos acesso apenas às suas informações básicas de perfil.
@@ -675,6 +680,9 @@ login-what-a2 = Solicitamos acesso apenas às suas informações básicas de per
 login-trial = Existe um período de teste?
 login-trial-a = Você pode usar a versão gratuita pelo tempo que quiser - não há limite de tempo e não é necessário cartão!
 login-trial-a2 = Ou, para experimentar a versão atualizada gratuitamente por um mês, convide três amigos para editar seu mapa mental com você!
+
+login-help = Onde posso obter ajuda ou suporte?
+login-help-a = Visite nossa base de conhecimento em <a data-l10n-name='help'>coggle.help</a> para obter vários guias ilustrados ou envie-nos um e-mail para <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
 # orgs-pitch-title = Coggle Organizations

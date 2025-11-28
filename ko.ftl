@@ -654,11 +654,16 @@ login-saml-where = If you're a single-sign on user, log in using the page shared
 login-saml-more = Read more about Single Sign On.
 
 login-faq = 자주 묻는 질문
+login-colab = 동료들과 협업할 수 있나요?
+login-colab-a = 동료들이 변경하는 내용을 즉시 확인하고 협업하세요! 
+    이메일로 공동작업자를 초대하고, 다이어그램 페이지 오른쪽 상단에서 누가
+    변경할 수 있는지 관리할 수 있습니다.
+
 login-free = Coggle은 무료인가요?
-login-free-a = 네, Coggle 무료 버전에는 훌륭한 마인드 맵을 만드는 데 필요한 모든 것이 포함되어 있습니다.
-    실시간 협업 기능과 크기 제한이 없습니다!
-    유료 버전 <a data-l10n-name="pricing">에는 전문가 사용자를 
-    위한 추가 기능</a>이 포함되어 있습니다.
+login-free2-a = 네, 훌륭한 마인드 맵을 만드는 데 필요한 모든 기능(시간 제한
+    없음, 실시간 협업, 크기 제한 없음 등)이 무료입니다. 전문가와 대규모 팀을 위한
+    <a data-l10n-name='pricing'>강력한 기능을 추가로 이용하려면
+    업그레이드하세요</a>.
 
 login-what-q = Google/Microsoft 계정은 어떻게 사용되나요?
 login-what-a2 = 저희는 귀하의 기본 프로필 정보에 대한 접근 권한만 
@@ -684,6 +689,9 @@ login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in 
 login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
     and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
     touch with our <a data-l10n-name="email">enterprise sales address</a>.
+
+login-help = 도움말이나 지원은 어디서 받을 수 있나요?
+login-help-a = 다양한 그림 가이드를 보려면 <a data-l10n-name='help'>coggle.help</a>의 지식 베이스를 방문하거나 <a data-l10n-name="email">hello@coggle.it</a>로 이메일을 보내주세요.
 
 login-pw-more-q = I've still got a question about login
 login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.

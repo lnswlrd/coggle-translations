@@ -706,11 +706,16 @@ login-saml-where = Si eres un usuario de inicio de sesión único, inicia sesió
 login-saml-more = Más información sobre el inicio de sesión único.
 
 login-faq = Preguntas frecuentes
+login-colab = ¿Puedo colaborar con colegas?
+login-colab-a = Colabora y visualiza los cambios de tus compañeros al instante.
+    Invita a tus colaboradores por correo electrónico y gestiona quién puede
+    realizar cambios en la esquina superior derecha de la página del diagrama.
+
 login-free = ¿Coggle es gratuito?
-login-free-a = Sí, la versión gratuita de Coggle incluye todo lo necesario 
-    para crear mapas mentales fantásticos: ¡con colaboración en tiempo 
-    real y sin límite de tamaño! La versión de pago <a data-l10n-name="pricing">incluye 
-    funciones adicionales</a> para usuarios profesionales.
+login-free2-a = Sí, todo lo necesario para crear excelentes mapas mentales (sin
+    límite de tiempo, colaboración en tiempo real, sin límite de tamaño y más) es
+    gratis. <a data-l10n-name='pricing'>Actualice para obtener funciones extra
+    potentes</a> para profesionales y equipos grandes.
 
 login-what-q = ¿Qué hacen con mi cuenta de Google/Microsoft?
 login-what-a2 = Solo solicitamos acceso a la información básica de tu perfil.
@@ -736,6 +741,9 @@ login-otherlogin-a-p1 = Actualmente solo admitimos el inicio de sesión con cuen
 login-otherlogin-a-p2 = Ofrecemos soporte para <a data-l10n-name="saml">inicio de sesión SAML 2.0</a> en organizaciones Coggle.
     Si le interesa alojar su propia versión de Coggle con inicio de sesión en Active Directory, póngase en contacto con a
     nuestra <a data-l10n-name="email">dirección de ventas empresarial</a>.
+
+login-help = ¿Dónde puedo obtener ayuda o soporte?
+login-help-a = Visite nuestra base de conocimientos en <a data-l10n-name='help'>coggle.help</a> para obtener muchas guías ilustradas, o envíenos un correo electrónico a <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = Tengo alguna pregunta sobre el inicio de sesión.
 login-pw-more-a = ¡Consúltenos! Nuestro correo electrónico es <a data-l10n-name="email">hello@coggle.it</a>.

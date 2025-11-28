@@ -708,11 +708,16 @@ login-saml-where = If you're a single-sign on user, log in using the page shared
 login-saml-more = Read more about Single Sign On.
 
 login-faq = Frequently Asked Questions
-login-free =  Is Coggle Free?
-login-free-a = Yes, the free version of Coggle includes everything you need to
-    create great mind maps: with real-time collaboration, and no size limits! The
-    paid version <a data-l10n-name="pricing">includes extra
-    features</a> for professional users.
+login-colab = Can I Collaborate with Colleagues?
+login-colab-a = Collaborate and see your co-workers' changes instantly as they
+    make them! Invite collaborators by email, and manage who can make changes in
+    the top right of the diagram page. 
+
+login-free = Is Coggle Free?
+login-free2-a = Yes, everything to create great mind maps – no time limit,
+    real-time collaboration, no size limit, and more – is free. <a
+    data-l10n-name='pricing'>Upgrade for extra powerful features</a> for 
+    professionals and large teams.
 
 login-what-q = What do you do with my Google/Microsoft account?
 login-what-a2 = We only ask for access to your basic profile information. 
@@ -738,6 +743,9 @@ login-otherlogin-a-p1 = Currently we  support Google, Microsoft, Sign in with Ap
 login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
     and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
     touch with our <a data-l10n-name="email">enterprise sales address</a>.
+
+login-help =  Where can I get Help or Support?
+login-help-a = Visit our knowledge base at <a data-l10n-name='help'>coggle.help</a> for lots of illustrated guides, or email us at <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = I've still got a question about login
 login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.

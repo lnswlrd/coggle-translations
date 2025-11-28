@@ -655,11 +655,16 @@ login-saml-where = Nếu bạn là người dùng single-sign on, hãy đăng nh
 login-saml-more = Đọc thêm về Single Sign On.
 
 login-faq = Câu hỏi thường gặp
+login-colab = Tôi có thể hợp tác với đồng nghiệp không?
+login-colab-a = Cộng tác và xem ngay những thay đổi của đồng nghiệp khi họ thực
+    hiện! Mời cộng tác viên qua email và quản lý những người có thể thực hiện thay
+    đổi ở góc trên bên phải của trang sơ đồ.
+
 login-free = Coggle có miễn phí không?
-login-free-a = Có, phiên bản miễn phí của Coggle bao gồm mọi thứ bạn cần để
-    tạo ra những bản đồ tư duy tuyệt vời: với tính năng cộng tác theo thời gian thực và không giới hạn kích thước!
-    Phiên bản trả phí <a data-l10n-name="pricing">bao gồm các tính 
-    năng bổ sung</a> dành cho người dùng chuyên nghiệp.
+login-free2-a = Có, mọi thứ để tạo ra bản đồ tư duy tuyệt vời – không giới hạn
+    thời gian, cộng tác theo thời gian thực, không giới hạn kích thước và nhiều hơn
+    nữa – đều miễn phí. <a data-l10n-name='pricing'>Nâng cấp để có thêm nhiều tính
+    năng mạnh mẽ</a> dành cho các chuyên gia và nhóm lớn.
 
 login-what-q = Bạn sẽ làm gì với tài khoản Google/Microsoft của tôi?
 login-what-a = Chúng tôi chỉ yêu cầu quyền truy cập vào các thông tin cơ bản của bạn. 
@@ -685,6 +690,9 @@ login-otherlogin-a-p1 = Rất tiếc, chúng tôi hiện chỉ hỗ trợ đăng
 login-otherlogin-a-p2 = Chúng tôi cũng hỗ trợ phương thức <a data-l10n-name="saml">SAML 2.0 login</a> với gói doanh nghiệp, 
     anếu bạn quan tâm đến việc tự cấu trúc phiên bản Coggle của riêng tổ chức với Active Directory thì hãy
     liên hệ với chúng tôi qua <a data-l10n-name="email">enterprise sales address</a>.
+
+login-help = Tôi có thể nhận Trợ giúp hoặc Hỗ trợ ở đâu?
+login-help-a = Hãy truy cập cơ sở kiến thức của chúng tôi tại <a data-l10n-name='help'>coggle.help</a> để xem nhiều hướng dẫn minh họa hoặc gửi email cho chúng tôi theo địa chỉ <a data-l10n-name="email">hello@coggle.it</a>.
 
 login-pw-more-q = Tôi vẫn còn thắc mắc về cách đăng nhập!
 login-pw-more-a = Cứ liên lạc với chúng tôi qua địa chỉ này <a data-l10n-name="email">hello@coggle.it</a> ha.
