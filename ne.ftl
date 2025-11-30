@@ -1,4 +1,4 @@
-### Coggle translations for US English (The default)
+### Coggle translations for Nepalese
 #
 # For help with syntax email translations@coggle.it
 #
@@ -8,123 +8,119 @@
 # frontpage content (https://coggle.it/home), except for the plans section
 # which is described below
 
-index-tagline = The clear way to share complex information.
-index-tagline-mm = Make mind maps that flow like your ideas.
-index-signupnow = Sign Up Now
-index-login = Got an account? Log in.
-index-title = Coggle - Simple, Fast, and Powerful Mind Maps. Just Coggle it!
+index-tagline = जटिल जानकारी साझा गर्ने स्पष्ट तरिका।
+index-tagline-mm = तपाईंको विचार जस्तै प्रवाहित हुने दिमाग नक्सा कागजातहरू बनाउनुहोस्।
+index-signupnow = अहिलेनै साइन अप गर्नुहोस्
+index-login = पहिले नै साइन अप गर्नुभयो? यहाँ लग इन गर्नुहोस्।
 
-index-nav-login = Login
-index-nav-pricing = Pricing
-index-nav-features = Features
-index-nav-gallery = Gallery
-index-nav-home = Home
+index-nav-login = लगइन
+index-nav-pricing = मूल्य निर्धारण
+index-nav-features = विशेषताहरु
+index-nav-gallery = ग्यालरी
+index-nav-home = गृहपृष्ठ
 
-index-unleash = Unleash your creativity
-index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
-index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
+index-unleash = आफ्नो सिर्जनशीलता प्रकट गर्नुहोस्
+index-blurb = छिटो र सजिलैसँग सुन्दर नोटहरू तयार गर्नुहोस्। आफ्ना विचारहरूमा सँगै काम गर्न साथीहरू र सहकर्मीहरूसँग साझा गर्नुहोस्।
+index-viewgallery = अथवा प्रेरणाको लागि। <a data-l10n-name='gallery'>कोगल ग्यालरी</a> हेर्नुहोस्.
 
-index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
-index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Sign in</a> to use for free, forever!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-h = सहयोगी मन नक्सा र फ्लोचार्टहरू
+index-colab-mindmaps-flowcharts-p1 = कोगलले माइन्डम्याप र फ्लोचार्टहरू सिर्जना गर्न र साझेदारी गर्न सजिलो बनाउँछ। यो तपाईंको ब्राउजरमा अनलाइन काम गर्दछ: डाउनलोड वा स्थापना गर्न केहि छैन। <a data-l10n-name='login'>लग इन गर्नुहोस्</a> अब रेखाचित्र बनाउन सुरु गर्नुहोस्!
+index-colab-mindmaps-flowcharts-p2 = तपाईं नोटहरू लिँदै हुनुहुन्छ, विचारमंथन गर्दै हुनुहुन्छ, योजना बनाउँदै हुनुहुन्छ, वा केही अद्भुत रचनात्मक काम गर्दै हुनुहुन्छ भने, कोगल मार्फत आफ्ना विचारहरू कल्पना गर्न एकदमै सरल छ। जति धेरै साथीहरू वा सहकर्मीहरूसँग साझेदारी गर्नुहोस्। तपाईंले गर्नुभएका परिवर्तनहरू तिनीहरूको ब्राउजरमा तुरुन्तै देखिनेछन्, तिनीहरू संसारको जुनसुकै ठाउँमा भए पनि। 
 
-index-trusted-h = Trusted by Over 10,000,000 People and Businesses Like You.
-index-trusted-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works in your browser: there's nothing to download or install, and everything you need to create great mindmaps is <a data-l10n-name='free'>free, forever!</a>
+index-use-notes-h = नोटहरू लिनुहोस्
+index-use-notes-p = बैठकमा कोगल खोल्नुहोस्, तपाईंको संशोधनको समयमा वा जहाँसुकै सुन्दर सिर्जना गर्न प्रेरणा मिल्छ, संरचित नोटहरू।
 
-index-use-notes-h = Take Notes
-index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
+index-use-brainstorm-h = विचारमंथन
+index-use-brainstorm-p = कुनै पनि विचारको सुरुवात गर्नुहोस्, त्यसमा कोगलले पानी हाल्नुहोस् र यसलाई पूर्ण रूपमा विकसित योजनामा ​​बढ्दै गरेको हेर्नुहोस्, स्पष्ट रूपमा राखिएको र साझा गर्न तयार।
 
-index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.
+index-use-share-h = जानकारी साझा गर्नुहोस्
+index-use-share-p = आफ्नो विषयलाई कोगलमा डिस्टिल गर्नुहोस्, सबै विवरणहरू समावेश गर्नुहोस् र आफ्नो टोलीसँग साझा गर्नुहोस्।, तपाईंका सहपाठीहरू वा संसार!
 
-index-use-share-h = Share Information
-index-use-share-p = Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!
+index-coggle-flow-title = शक्तिशाली अनलाइन फ्लोचार्टहरू
+index-coggle-flow-description = आफ्ना प्रक्रियाहरूको नक्सा बनाउन कोगल प्रयोग गर्नुहोस्, हाम्रो शक्तिशाली नयाँ प्रयोग गरेर प्रणाली र एल्गोरिदमहरू <a data-l10n-name='flowcharts'>फ्लोचार्टिङ विशेषताहरु</a>.
 
-index-coggle-flow-title = Powerful Online Flowcharts
-index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
+features-realtime = वास्तविक समय सहयोग
+features-realtime-desc = आफ्ना साथीहरू र सहकर्मीहरूलाई आफ्नो रेखाचित्रमा एकै समयमा काम गर्न आमन्त्रित गर्नुहोस्।
 
-features-realtime = Realtime Collaboration
-features-realtime-desc = Invite your friends and colleagues to work with you, at the same time, on your diagrams.
+features-unlimited-images-title = असीमित चित्र अपलोडहरू
+features-images = तपाईंको डेस्कटपबाट तपाईंको रेखाचित्रमा छविहरू तान्नुहोस् र छोड्नुहोस्। तपाईंले थप्न सक्ने तस्बिरहरूको संख्याको कुनै सीमा छैन।
 
-features-unlimited-images-title = Unlimited Image Uploads
-features-images = Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.
+features-fullhistory-title = हरेक परिवर्तन सुरक्षित गर्नुहोस्
+features-history = रेखाचित्रमा भएका सबै परिवर्तनहरू हेर्नुहोस् र अघिल्लो संस्करणमा फर्कन कुनै पनि बिन्दुबाट प्रतिलिपि बनाउनुहोस्।
 
-features-fullhistory-title = Save Every Change
-features-history = Look through all the changes to a diagram and make a copy from any point to revert to a previous version.
+features-labels-title = तैरिरहेको पाठ र (चित्र)छविहरू थप्नुहोस्
+features-labels = तपाईंको नक्साको भागहरू एनोटेट गर्न रेखाचित्र रूखको भाग नभएका पाठ लेबलहरू र छविहरू थप्नुहोस्।
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-blame-title = जवाफदेहिता ट्र्याक गर्नुहोस्
+features-blame = कसले के र कहिले परिवर्तन गर्यो भनेर हेर्नको लागि आफ्नो रेखाचित्रको इतिहास हेर्नुहोस्! पत्ता लगाउनको लागि केवल रेखाचित्र इतिहास मोडमा प्रवेश गर्नुहोस्।
 
-features-blame-title = Track accountability
-features-blame = Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.
+features-colours-title = रङ ठीकसँग छान्नुहोस्
+features-colours = रङ ह्वील ल्याउन र आफूले चाहेको रङ चयन गर्न शाखामा क्लिक गर्नुहोस्।
 
-features-colours-title = Get the color right
-features-colours = Click on a branch to bring up the color wheel and select the color you want.
+features-notifications-title = इमेल सूचनाहरू
+features-notifications = सहयोगीहरूले तपाईंसँग साझेदारी गरिएका रेखाचित्रहरू सम्पादन गर्दा परिवर्तनहरूको सारांश सहितको इमेल सूचना प्राप्त गर्नुहोस्।
 
-features-notifications-title = Email Notifications
-features-notifications = Get an email notification with a summary of changes when collaborators edit diagrams shared with you.
-
-features-chat-title = Comments and Chat
-features-chat = Add comments to nodes and chat with collaborators without leaving your diagram workspace.
+features-chat-title = टिप्पणी र च्याट
+features-chat = नोडहरूमा टिप्पणीहरू थप्नुहोस् र आफ्नो रेखाचित्र कार्यस्थान नछोडिकन सहयोगीहरूसँग कुराकानी गर्नुहोस्।
 
 
 # Plans selection translations (https://coggle.it/plans, when logged in, and
 # also on the homepage)
-plans-free-forever-title = Free Forever
-plans-free-description = Ideal for discovering Coggle and occasional use.
-plans-free-price = Free forever
+plans-free-forever-title = सधैंभरि नि:शुल्क
+plans-free-description = कोगल पत्ता लगाउन र कहिलेकाहीं प्रयोगको लागि आदर्श।
+plans-free-price = सधैंभरि नि:शुल्क
 
-feature-realtime = <b>Real-time</b> collaboration
-feature-emoji = Over <b>1600</b> <a data-l10n-name="icons-link">beautiful icons</a>
-feature-diagrams = <b>Unlimited</b> public diagrams
+feature-realtime = <b>वास्तविक समय</b> सहकार्य
+feature-emoji = माथि<b>१६००</b> <a data-l10n-name="icons-link">सुन्दर आइकनहरू</a>
+feature-diagrams = <b>असीमित</b> सार्वजनिक रेखाचित्रहरू
 feature-nprivate =
     { $privateDiagrams_available -> 
-          [one] 1 private diagram
-       *[other] {$privateDiagrams_available} private diagrams
+          [one] १ निजी रेखाचित्र
+       *[other] {$privateDiagrams_available} निजी रेखाचित्र
     }
-feature-images = <b>Unlimited</b> image uploads
-feature-changes = <b>Full</b> change history
-feature-markdown = <b>Markdown</b> support
-feature-downloads = <b>PDF & Image</b> download
-feature-labels = Unconnected <b>text boxes</b>
-feature-exports = Export as <b>.mm and text</b>
-feature-visio = Export for <b>Microsoft Visio</b>
-feature-imports = Import <b>.mm and text</b>
-feature-chat = Comments & Chat
-feature-embed = Embeddable diagrams
-feature-embed2 = Embed mindmaps anywhere
-plans-free-getstarted = Use Free
+feature-images = <b>असीमित</b> (चित्र)छवि अपलोडहरू
+feature-changes = <b>पूर्ण</b> परिवर्तन इतिहास 
+feature-markdown = <b>मार्कडाउन</b> सहयोग
+feature-downloads = <b>पिडिएफ र चित्र</b> डाउनलोड 
+feature-labels = जडान नभएको <b>पाठ बाकसहरू</b>
+feature-exports = .mm र पाठ <b>यस रूपमा निर्यात गर्नुहोस् </b>
+feature-visio = निर्यात गर्नुहोस् <b>माइक्रोसफ्ट भिजियो</b>
+feature-imports = .mm र पाठ <b> यस रूपमाआयात गर्नुहोस् </b>
+feature-chat = टिप्पणी र च्याट
+feature-embed = इम्बेड गर्न मिल्ने रेखाचित्रहरू
+feature-embed2 = माइन्डम्यापहरू जहाँसुकै इम्बेड गर्नुहोस्
+plans-free-getstarted = सुरु गर्नुहोस्
 
-plans-awesome-title = Awesome
-plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.
-plans-awesome-price = $5 / month
-feature-include-free = Everything in <b>Free</b>
-feature-unlimited-private = <b>Unlimited</b> private diagrams
-feature-shapes = <b>More Item Shapes</b>
-feature-multiroot = <b>Multiple start points</b>
-feature-chathistory = <b>Full</b> chat history
-feature-rearrange = <b>Auto-arrange branches</b>
-feature-rejoin = <b>Join Branches</b>
-feature-folders = <b>Shared folders</b>
-feature-presentation = Presentation mode
-feature-bigimages = <b>High-res image</b> uploads
-feature-linestyles = <b>Control line style</b>
-feature-controlpoints = <b>Control line paths</b>
-feature-textalign = Change <b>text alignment</b>
-feature-extendedcolours = More colors
-feature-editable-links = Collaborate by <b>link</b>
-plans-findoutmore = Find out more
+plans-awesome-title = गजब
+plans-awesome-description = गोपनीयता र उन्नत सुविधाहरू सहित <b>व्यक्तिगत</b> वा <b>व्यावसायिक</b> प्रयोगको लागि आदर्श।
+plans-awesome-price = $५ / महिना
+feature-include-free = सबै कुरा <b>नि:शुल्क</b> मा छ
+feature-unlimited-private = <b>असीमित</b> निजी रेखाचित्रहरू
+feature-shapes = <b>थप वस्तु आकारहरू</b>
+feature-multiroot = <b>बहु सुरुवात बिन्दुहरू</b>
+feature-chathistory = <b>पूर्ण</b> च्याट इतिहास
+feature-rearrange = <b>शाखाहरू स्वतः व्यवस्थित गर्नुहोस्</b>
+feature-rejoin = <b>शाखाहरूमा सामेल हुनुहोस्</b>
+feature-folders = <b>साझेदारी गरिएका फोल्डरहरू</b>
+feature-presentation = प्रस्तुति मोड
+feature-bigimages = <b>उच्च-रिजोल्युसन छवि</b> अपलोडहरू
+feature-linestyles = <b>नियन्त्रण रेखा शैली</b>
+feature-controlpoints = <b>नियन्त्रण रेखा मार्गहरू</b>
+feature-textalign = <b>पाठ पङ्क्तिबद्धता</b> परिवर्तन गर्नुहोस्
+feature-extendedcolours = थप रङहरू
+feature-editable-links = <b>लिङ्क</b> मार्फत सहकार्य गर्नुहोस्
+plans-findoutmore = थप जान्नुहोस्
 
-plans-org-title = Organization
-plans-org-description = Ideal for <b>teams</b> that want to control access to their data and consolidate billing.
-plans-org-price = $8 / member / month
-feature-org-awesome = Everything from <b>Awesome</b>
-feature-org-separate = Separate Personal workspace
-feature-org-billing = Consolidated billing
-feature-bulkexport = <b>Bulk export</b>
-feature-adminpanel = <b>User & data</b> management
-feature-branding = Branded diagrams
-feature-org-saml-sso = SAML Single Sign On
+plans-org-title = संस्थागत 
+plans-org-description = आफ्नो डेटामा पहुँच नियन्त्रण गर्न र बिलिङ एकीकृत गर्न चाहने <b>टोलीहरू</b> को लागि आदर्श।
+plans-org-price = $८ / सदस्य / महिना
+feature-org-awesome = <b>गजब</b> बाट सबै कुरा
+feature-org-separate = छुट्टै व्यक्तिगत कार्यस्थान
+feature-org-billing = समेकित बिलिङ
+feature-bulkexport = <b>थक निर्यात</b>
+feature-adminpanel = <b>प्रयोगकर्ता र डेटा</b> व्यवस्थापन
+feature-branding = ब्रान्डेड रेखाचित्रहरू
+feature-org-saml-sso = SAML एकल साइन अन
 
 plans-select = Select
 continue-free = Continue on <b>Free</b> plan
@@ -134,14 +130,13 @@ awesome-signup-monthly = Sign up <span>$5</span> per month
 awesome-signup-yearly = Sign up <span>$50</span> per year
 awesome-upgrade-monthly = Upgrade (<b>$5</b>/month)
 awesome-upgrade-yearly = Upgrade (<b>$50</b>/year)
-yearly-discount = Save $10 by paying annually
+yearly-discount = Pay yearly and get 2 months free!
 switch-yearly = Upgrade to Yearly
 manage-subscription = Manage Subscription
 
 per-month = per month
 per-member-per-month = per member per month
 forever = forever
-flexible = fully flexible
 
 awesome-feature = Awesome Plan
 org-feature = Organization Feature
@@ -159,7 +154,6 @@ footer-what-is-mindmapping = What is Mindmapping?
 footer-top-uses = Top Mindmap Uses
 footer-company = Company
 footer-legal = Legal
-footer-access = Accessibility
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
 create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
@@ -177,14 +171,12 @@ created-by-you =
     .value = Created By You
 shared-with-you =
     .value = Shared With You
-recent-diagrams =
-    .value = Recently Updated
 folder-title =
     .placeholder = Enter a folder name
     .value = { $name }
 folder-areyousure = are you sure?
 folder-sure = I&#39;m sure
-logout = Log Out
+logout = Logout
 settings = Settings
 return-to-diagrams = Return to your diagrams
 upgrade-to-awesome = Upgrade to <b>Awesome</b>!
@@ -218,14 +210,6 @@ impersonatedaccess = You're viewing Coggle as an Organization member. <a data-l1
 
 doclist-loading-failed = Uh-oh! Loading folder failed, refresh the page to try again.
 doclist-discover-whatspossible = Want to get more from Coggle? Discover <a data-l10n-name='link'>what's possible</a>.
-
-sort-custom = Custom Order
-sort-a-z = A-Z
-sort-z-a = Z-A
-sort-newest-asc = Created most recently
-sort-newest-desc = Created longest ago
-sort-modified-asc = Modified most recently
-sort-modified-desc = Modified least recently
 
 tooltip-createorg =
     .title = Create an Organization
@@ -366,8 +350,6 @@ drag-to-transplant-branch = drag to transplant branch
 delete-connection = delete connection
 reverse-connection = reverse connection
 label-connection = label this connection
-move-branch-to-diagram = move branch to new diagram
-copy-branch-to-diagram = copy branch to new diagram
 
 undo = undo
 redo = redo
@@ -378,7 +360,7 @@ add-label = add label
 help-title-title = The Diagram Title
 help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
 help-title-p2 = Start by editing it - what is your diagram about?
-help-gohome-2 = When you have finished editing, click the logo to go back to the homepage. Your documents are automatically saved.
+help-gohome = Click the Coggle logo to go back to the homepage, where your documents are automatically saved.
 help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
 help-edit-node-p1 = Click any item to edit the text.
 help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
@@ -414,9 +396,6 @@ me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all t
 me-awesome = This is you &mdash;<b>You're Awesome!</b>
 me-manage-plan = Manage your plan
 
-me-free = This is you &mdash;<b>You're using Coggle for free.</b> <a data-l10n-name="settings">View your settings.</a>
-upgrade-awesome = Upgrade to Awesome
-
 
 messages-title = Messages
 messages-search =
@@ -449,10 +428,8 @@ public-label = Public
 current-version = current
 
 # sharing dialog content 
-share-by-link = Sharing by Link
-share-newlink2 = Create Private Link
-share-embedlink = Embed in html
-    .title = Generate HTML code to embed in a web page
+share-newlink = New Link:
+share-newlink-tip = These let you share your diagram with people who aren't logged in, but be careful, they let <strong>anyone</strong> with the link see your work!
 
 share-tag-user = user
 share-tag-embed = embed
@@ -474,7 +451,6 @@ viewers-nocopy =
 revoke-link = 
     .title = Delete this link.
 
-share-publishing = Publishing
 share-open = Can everyone view this diagram?
 share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
 
@@ -536,12 +512,11 @@ touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>lab
 sc-and-click = + click
 sc-and-drag = + drag
 sc-and-mousewheel = + mousewheel
-sc-shift = shift ⇧
-sc-ret = enter ⏎
-sc-tab = tab ⇥
-sc-ctrl = ctrl ^
+sc-shift = shift
+sc-ret = enter
+sc-tab = tab
+sc-ctrl = ctrl
 sc-alt = alt
-sc-option = option ⌥
 sc-dragdrop = drag and drop
 
 sidebar-whentyping = When typing
@@ -553,40 +528,6 @@ sidebar-sc-parent = Jump to Parent:
 
 sidebar-sc-markdown-title = Format text:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
-
-hint-control-line = Drag to adjust line.
-hint-control-remove = Click to remove control point.
-hint-delete-link = Delete cross-link.
-hint-edit-label = Edit cross-link label.
-hint-add-title = Add new branch. This is the diagram's title.
-hint-add =
-    {
-        $os ->
-            [Mac] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-           *[Win] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-    }
-hint-delete = Delete branch.
-hint-remove = Delete item.
-hint-insert-rp = Insert item before this one, or drag to transplant.
-
-toggle-checkbox = Toggle checkbox.
-hint-edit-touch = Tap to edit, drag to move.
-hint-transplant = Drag to transplant.
-hint-drag-only = Drag to move this node only.
-hint-can-drag-only = 
-    {
-        $os ->
-            [Mac] Hold <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> to drag this node only.
-           *[Win] Hold <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> to drag this node only.
-    }
-hint-edit = Click to edit, drag to move.
-hint-present-touch = Tap to show and hide branches.
-hint-present-all = Click to show and hide all levels.
-hint-present = Click to show and hide branches. Hold <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> to expand all levels.
-
-stat-saving = Saving
-stat-saved = All changes saved
-stat-noaccess = Access denied
 
 another-fact = another!
 cogglefacts-more = Read more...
@@ -631,7 +572,6 @@ label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
 
 hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
 hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> to delete
 
 commentcount = 
     { $count ->
@@ -693,62 +633,62 @@ awesome-hint-orgs =
   If you're using Coggle for work, check out <a data-l10n-name="orglink">Coggle Organizations</a>, which come with all of the Coggle Awesome benefits, and business-friendly admin features too.
 
 
-# Login Page /login
-login-heading = Sign in to Coggle:
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+# लगइन पृष्ठ / लगइन
+login-heading = Coggle मा साइन इन गर्नुहोस्:
+index-loginwithgoogle = गुगलसँग साइन इन गर्नुहोस्
+index-signinwithapple = एप्पलसँग साइन इन गर्नुहोस्
 
-login-title = Coggle - Sign in to Start Mind Mapping
+login-title = Coggle - Mind Mapping सुरु गर्न साइन इन गर्नुहोस्
 
-signin-by-email = Sign in by Email Address
-sign-in = Sign in
+signin-by-email = इमेल ठेगानाद्वारा साइन इन गर्नुहोस्
+sign-in = साइन इन
 
-login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
-login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
-login-saml-more = Read more about Single Sign On.
+login-saml = हामीले OneLogin, Okta, र अन्य SAML 2.0 पहिचान प्रदायकहरूको साथ Coggle संगठनहरूको लागि इन्टरप्राइज ग्रेड लगइनलाई पनि समर्थन गर्छौं।
+login-saml-where = यदि तपाइँ एकल-साइन अन प्रयोगकर्ता हुनुहुन्छ भने, तपाइँको संगठनको प्रशासक द्वारा साझा गरिएको पृष्ठ प्रयोग गरेर लग इन गर्नुहोस्।
+login-saml-more = एकल साइन अनको बारेमा थप पढ्नुहोस्।
 
-login-faq = Frequently Asked Questions
-login-colab = Can I Collaborate with Colleagues?
-login-colab-a = Collaborate and see your co-workers' changes instantly as they
-    make them! Invite collaborators by email, and manage who can make changes in
-    the top right of the diagram page. 
+login-faq = बारम्बार सोधिने प्रश्नहरू
+login-colab = के म सहकर्मीहरूसँग सहकार्य गर्न सक्छु?
+login-colab-a = सहयोग गर्नुहोस् र आफ्ना सहकर्मीहरूको परिवर्तनहरू तिनीहरूको रूपमा हेर्नुहोस् 
+    तिनीहरूलाई बनाउनुहोस्! इमेल मार्फत सहयोगीहरूलाई आमन्त्रित गर्नुहोस्, र कसले परिवर्तन गर्न सक्छ भन्ने व्यवस्थापन गर्नुहोस् 
+    रेखाचित्र पृष्ठको शीर्ष दायाँ।
 
-login-free = Is Coggle Free?
-login-free2-a = Yes, everything to create great mind maps – no time limit,
-    real-time collaboration, no size limit, and more – is free. <a
-    data-l10n-name='pricing'>Upgrade for extra powerful features</a> for 
-    professionals and large teams.
+login-free = कोगल फ्री?
+login-free2-a = हो, उत्कृष्ट दिमाग नक्सा सिर्जना गर्न सबै कुरा - कुनै समय सीमा छैन, 
+    वास्तविक समय सहयोग, कुनै आकार सीमा, र अधिक - नि: शुल्क छ। <a 
+    data-l10n-name='pricing'>अतिरिक्त शक्तिशाली सुविधाहरूको लागि अपग्रेड गर्नुहोस्</a> का लागि 
+    पेशेवर र ठूलो टोली।
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a2 = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We can't access anything else.
+login-what-q = तपाईं मेरो Google/Microsoft खातासँग के गर्नुहुन्छ?
+login-what-a2 = हामी तपाईको आधारभूत प्रोफाइल जानकारीमा पहुँचको लागि मात्र सोध्छौं। 
+    यसमा तपाईंको नाम, प्रोफाइल तस्वीर र तपाईंको इमेल ठेगाना समावेश छ। 
+    हामी अरू केहि पहुँच गर्न सक्दैनौं।
 
-login-trial = Is there a Trial?
-login-trial-a = You can use the free version for as long as you like - there's no  time limit, and no card required!
-login-trial-a2 = Or to try the upgraded version for free for a month, invite three friends to edit your mind map with you!
+login-trial = त्यहाँ कुनै परीक्षण छ?
+login-trial-a = तपाईले चाहेको नि:शुल्क संस्करण प्रयोग गर्न सक्नुहुन्छ - त्यहाँ कुनै समय सीमा छैन, र कुनै कार्ड आवश्यक छैन!
+login-trial-a2 = वा अपग्रेड गरिएको संस्करणलाई एक महिनाको लागि नि:शुल्क प्रयास गर्न, तीन जना साथीहरूलाई निमन्त्रणा दिनुहोस् तपाइँसँग तपाइँको दिमागको नक्सा सम्पादन गर्न!
 
-login-switch-q = Can I switch between login methods?
-login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
-    then you can use any of them to log in to the same Coggle account. 
-    Note that if you choose the 'hide my email' option in Apple login, then your account won't be linked.
+login-switch-q = के म लगइन विधिहरू बीच स्विच गर्न सक्छु?
+login-switch-a = हो! जबसम्म तपाइँ तपाइँको Microsoft/Apple/Google खाताहरूमा उही इमेल ठेगाना प्रयोग गर्नुहुन्छ, 
+    त्यसोभए तपाईंले उही कोगल खातामा लग इन गर्न तिनीहरू मध्ये कुनै पनि प्रयोग गर्न सक्नुहुन्छ। 
+    नोट गर्नुहोस् कि यदि तपाईंले एप्पल लगइनमा 'मेरो इमेल लुकाउनुहोस्' विकल्प रोज्नुभयो भने, त्यसपछि तपाईंको खाता लिङ्क हुने छैन।
 
-login-workschool-q = Can I use my Work or School Microsoft account?
-login-workschool-a = Yes, you can use any Microsoft account, including both personal accounts (formerly Windows Live), 
-    and business-managed Azure Active Directory or Office-365 accounts, 
-    unless your IT team have blocked this feature for accounts they manage.
+login-workschool-q = के म मेरो कार्य वा विद्यालय Microsoft खाता प्रयोग गर्न सक्छु?
+login-workschool-a = हो, तपाईले कुनै पनि Microsoft खाता प्रयोग गर्न सक्नुहुन्छ, दुबै व्यक्तिगत खाताहरू सहित (पहिले Windows Live), 
+    र व्यापार-व्यवस्थित Azure सक्रिय निर्देशिका वा Office-365 खाताहरू, 
+    जबसम्म तपाईंको IT टोलीले तिनीहरूले व्यवस्थापन गर्ने खाताहरूको लागि यो सुविधा रोकेको छैन।
 
-login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we  support Google, Microsoft, Sign in with Apple, and Email login for personal accounts.
-login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
-    and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
-    touch with our <a data-l10n-name="email">enterprise sales address</a>.
+login-otherlogin-q = म Coggle पहुँच गर्न अर्को प्रमाणीकरण प्रदायक प्रयोग गर्न सक्छु?
+login-otherlogin-a-p1 = हाल हामी Google, Microsoft, Apple सँग साइन इन, र व्यक्तिगत खाताहरूको लागि इमेल लगइन समर्थन गर्छौं।
+login-otherlogin-a-p2 = हामी Coggle संगठनहरूको लागि <a data-l10n-name="saml">SAML 2.0 लगइन</a> लाई समर्थन गर्छौं, 
+    र यदि तपाइँ सक्रिय डाइरेक्टरी लगइनको साथ Coggle को तपाइँको आफ्नै संस्करण होस्ट गर्न रुचि राख्नुहुन्छ भने पाउनुहोस् 
+    हाम्रो <a data-l10n-name="email">इन्टरप्राइज बिक्री ठेगाना</a> मा छुनुहोस्।
 
-login-help =  Where can I get Help or Support?
-login-help-a = Visit our knowledge base at <a data-l10n-name='help'>coggle.help</a> for lots of illustrated guides, or email us at <a data-l10n-name="email">hello@coggle.it</a>.
+login-help = म कहाँ मद्दत वा समर्थन प्राप्त गर्न सक्छु?
+login-help-a = धेरै सचित्र गाइडहरूको लागि <a data-l10n-name='help'>coggle.help</a> मा हाम्रो ज्ञान आधारमा जानुहोस्, वा हामीलाई <a data-l10n-name="email">hello@coggle.it</a> मा इमेल गर्नुहोस्।
 
-login-pw-more-q = I've still got a question about login
-login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
+login-pw-more-q = मसँग अझै पनि लगइनको बारेमा प्रश्न छ
+login-pw-more-a = हामीलाई सोध्नुहोस्! हाम्रो इमेल हो <a data-l10n-name="email">hello@coggle.it</a>।
 
 # Organizations Landing Page (/organizations) 
 orgs-pitch-title = Coggle Organizations

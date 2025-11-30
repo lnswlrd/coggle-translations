@@ -257,7 +257,7 @@ settings-exports-title = Експорт
 settings-authentication-title = Аутентифікація
 
 billing-card = Інформація про вашу картку буде зберігатися у нас до <b>{ $cardEndsIn }</b>, вона закінчується <b>{ $cardExpires }</b>.
-billing-addr = Платіжний поштовий код, який є у нас: <b>{ $addressZip }</b>. <a>Змінити дані картки</a>
+billing-addr = Платіжний поштовий код, який є у нас: <b>{ $addressZip }</b>. <a data-l10n-name="edit">Змінити дані картки</a>
 
 # billing-remove = Remove
 billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -391,6 +391,9 @@ me-support-awesomethanks-p2 = Бо ви ранній користувач Coggle
 me-awesome = Це ваш &mdash;<b>Ви Awesome!</b>
 me-manage-plan = Керувати передплатою
 
+me-free = Це ви –<b>Ви користуєтеся Coggle безкоштовно.</b> <a data-l10n-name="settings">Переглянути налаштування.</a>
+upgrade-awesome = Оновіть до Awesome
+
 
 messages-title = Повідомлення
 messages-search =
@@ -423,8 +426,10 @@ public-label = Публічна
 current-version = поточний
 
 # sharing dialog content 
-share-newlink = Нове посилання:
-share-newlink-tip = Це дозволить вам поділитися діаграмою з людьми, які не зареєстровані, але будьте обережні: це дозволить <strong>будь-якому</strong>, хто має посилання, побачити вашу роботу!
+share-by-link = Спільне використання за посиланням
+share-newlink2 = Створити посилання для спільного доступу
+share-embedlink = Вбудувати в html
+    .title = Згенерувати HTML-код для вбудовування на веб-сторінку
 
 share-tag-user = користувач user
 share-tag-embed = вбудовувати
@@ -446,8 +451,9 @@ share-email-hints =
 # revoke-link = 
 #     .title = Delete this link.
 
+share-publishing = Видавнича справа
 share-open = Кожен може переглядати цю діаграму?
-share-open-detail = Відкриті діаграми доступні всім і можуть з'явитися в нашій <a>Галереї</a>
+share-open-detail = Відкриті діаграми доступні всім і можуть з'явитися в нашій <a data-l10n-name="gallery">Галереї</a>
 
 # download dialog content 
 download-pdf = Завантажити як PDF
@@ -616,29 +622,42 @@ awesome-hint-orgs =
 
 
 # Login Page /login  
+login-heading = Увійти в Coggle:
 index-loginwithgoogle = Увійдіть за допомогою Google
 index-signinwithapple = Вхід за допомогою Apple
 
-login-no-acc-q = У вас немає облікового запису Google або Microsoft?
-login-no-acc-a = Без проблем! Ви можете створити обліковий запис Google або Microsoft за допомогою будь-якої адреси електронної пошти. <b>Обліковий запис Gmail або Outlook не потрібен</b>.
+login-title = Coggle - Увійдіть, щоб розпочати створення ментальних карт
+
+signin-by-email = Увійти за допомогою адреси електронної пошти
+sign-in = Увійти
 
 login-saml = Ми також підтримуємо вхід корпоративного рівня для організацій Coggle за допомогою OneLogin, Okta та інших постачальників ідентифікаційних даних SAML 2.0.
 login-saml-where = Якщо ви користуєтеся єдиним входом, увійдіть у систему за допомогою сторінки, до якої надав доступ адміністратор вашої організації.
 login-saml-more = Дізнайтеся більше про єдиний вхід.
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = Часті запитання
+login-colab = Чи можу я співпрацювати з колегами?
+login-colab-a = Співпрацюйте та переглядайте зміни, внесені вашими колегами,
+    миттєво, як тільки вони їх вносять! Запрошуйте співробітників електронною
+    поштою та керуйте тим, хто може вносити зміни, у верхньому правому куті сторінки діаграми.
+
+login-free = Чи безкоштовний Coggle?
+login-free2-a = Так, усе необхідне для створення чудових ментальних карт – без
+    обмежень за часом, співпраця в режимі реального часу, без обмежень за розміром
+    та багато іншого – є безкоштовним. <a data-l10n-name='pricing'>Оновіть версію,
+    щоб отримати додаткові потужні функції</a> для професіоналів та великих команд.
+
+login-what-q = Що ви робите з моїм обліковим записом Google/Microsoft?
+login-what-a2 = Ми запитуємо доступ лише до основної інформації вашого профілю.
+    Це включає ваше ім'я, зображення профілю та адресу електронної пошти. Ми не
+    маємо доступу до жодної іншої інформації.
+
+login-trial = Чи є пробна версія?
+login-trial-a = Ви можете користуватися безкоштовною версією скільки завгодно довго — немає обмежень за часом і картка не потрібна!
+login-trial-a2 = Або, щоб спробувати оновлену версію безкоштовно протягом місяця, запросіть трьох друзів відредагувати вашу ментальну карту разом з вами!
+
+login-help = Де я можу отримати допомогу чи підтримку?
+login-help-a = Відвідайте нашу базу знань на <a data-l10n-name='help'>coggle.help</a>, щоб отримати багато ілюстрованих посібників, або напишіть нам на <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle для Організацій

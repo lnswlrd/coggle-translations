@@ -9,9 +9,10 @@
 # which is described below
 
 index-tagline = Um jeito simples para compartilhar informações complexas.
-index-tagline-mm = Um jeito simples para compartilhar informações complexas.
+index-tagline-mm = Faça mapas mentais que fluam como suas ideias.
 index-signupnow = Registre-se agora
 index-login = Já tem uma conta? Faça login aqui.
+index-title = Mapas mentais simples e elegantes: tão rápido quanto seus pensamentos - Coggle
 
 index-nav-login = Login
 index-nav-pricing = Planos
@@ -125,7 +126,8 @@ awesome-signup-monthly = Inscreva-se <span>$5 USD</span> por mês
 awesome-signup-yearly = Inscreva-se <span>$50 USD</span> por ano
 awesome-upgrade-monthly = Atualizar(<b>$5 USD</b>/mês)
 awesome-upgrade-yearly = Atualizar (<b>$50 USD</b>/ano
-yearly-discount = Pague anualmente e ganhe 2 meses grátis!
+yearly-discount-months = Pague anualmente e ganhe 2 meses grátis!
+yearly-discount = Economize US$ 10 pagando anualmente
 switch-yearly = Atualizar para uma assinatura anual
 manage-subscription = Gerenciar assinatura.
 
@@ -257,7 +259,7 @@ settings-exports-title = Exportação
 # settings-authentication-title = Authentication
 
 # billig-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-# billin-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a>Edit card details</a>
+# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
 
 # billing-remove = Remove
 # billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -337,20 +339,22 @@ choose-shape = escolher forma
 # (remove and item *and* all of its children)
 delete-branch = excluir ramificação inteira
 
-# remove-item = remove item
-# show-children = show children
-# hide-children = hide children
-# drag-to-create-link = drag to create link
-# drag-to-transplant-branch = drag to transplant branch
-# delete-connection = delete connection
-# reverse-connection = reverse connection
-# label-connection = label this connection
+remove-item = remover item
+show-children = mostrar ramos filhos
+hide-children = ocultar ramos filhos
+drag-to-create-link = arraste para criar link
+drag-to-transplant-branch = arraste para transplantar o ramo
+delete-connection = excluir conexão
+reverse-connection = conexão reversa
+label-connection = rotule esta conexão
+move-branch-to-diagram = mover ramificação para novo diagrama
+copy-branch-to-diagram = copiar ramificação para novo diagrama
 
 undo = desfazer
 redo = refazer
 paste-branch = colar ramificação
 drag-zoom-page = arrastar para a página de zoom
-# add-label = add label
+add-label = adicionar rótulo
 
 help-title-title = O título do diagrama
 help-title-p1 = Este é o centro do seu diagrama e seu título. Suas ideias vão se ramificar a partir daqui!
@@ -391,6 +395,9 @@ help-toolbar-invitemulti = Para economizar tempo, você pode convidar várias pe
 # me-awesome = This is you &mdash;<b>You\'re Awesome!</b>
 # me-manage-plan = Manage your plan
 
+me-free = Este é você &mdash;<b>Você está usando o Coggle gratuitamente.</b> <a data-l10n-name="settings">Veja suas configurações.</a>
+upgrade-awesome = Atualize para Awesome
+
 
 # messages-title = Messages
 # messages-search =
@@ -423,8 +430,10 @@ public-label = Público
 # current-version = current
 
 # sharing dialog content 
-share-newlink = Novo Link:
-share-newlink-tip = Estes permitem que você compartilhe seu diagrama com pessoas que não estão logadas, mas tenha cuidado, eles permitem que <strong>qualquer um</strong> com o link veja seu trabalho!
+share-by-link = Compartilhando por Link
+share-newlink2 = Criar link compartilhável
+share-embedlink = Incorporar em HTML
+    .title = Gerar código HTML para incorporar em uma página da web
 
 share-tag-user = usuário
 share-tag-embed = incorporado
@@ -446,8 +455,9 @@ share-email-hints =
 # revoke-link = 
 #     .title = Delete this link.
 
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a>Gallery</a>
+share-publishing = Publicação
+share-open = Todos podem visualizar este diagrama?
+share-open-detail = Os diagramas públicos podem ser visualizados por qualquer pessoa e podem aparecer em nossa <a data-l10n-name="gallery">Galeria</a>
 
 # download dialog content 
 download-pdf = Baixar PDF
@@ -512,6 +522,7 @@ sc-ret = enter
 sc-tab = tab
 sc-ctrl = ctrl
 sc-alt = alt
+sc-option = alt ⌥
 sc-dragdrop = arrastar e soltar
 
 sidebar-whentyping = Quando digitando
@@ -523,6 +534,25 @@ sidebar-sc-parent = Pular para um Pai:
 
 sidebar-sc-markdown-title = Format text:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+
+hint-control-line = Arraste para ajustar a linha.
+hint-control-remove = Clique para remover o ponto de controle.
+hint-delete-link = Excluir link cruzado.
+hint-edit-label = Editar rótulo de link cruzado.
+hint-add-title = Adicionar nova ramificação. Este é o título do diagrama.
+hint-add =
+    {
+        $os ->
+            [Mac] Adicione uma nova ramificação. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> para excluir ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para inserir.
+            *[Win] Adicione uma nova ramificação. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> para excluir ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> para inserir.
+    }
+hint-delete = Excluir ramificação.
+hint-remove = Excluir item.
+hint-insert-rp = Insira o item antes deste ou arraste para transplantar.
+
+stat-saving = Salvando
+stat-saved =Todas as alterações foram salvas 
+stat-noaccess = Acesso negado
 
 another-fact = outro!
 cogglefacts-more = Leia mais...
@@ -617,29 +647,42 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Entre no Coggle:
 index-loginwithgoogle = Faça login com o Google
 index-signinwithapple = Iniciar sessão com a Apple
 
-login-no-acc-q = Não tem uma Conta Google ou Microsoft?
-login-no-acc-a = Não há problema! Você pode criar uma Conta do Google ou da Microsoft com qualquer endereço de e-mail. <b>Não é necessária uma conta do Gmail ou do Outlook</b>.
+login-title = Coggle - Entre para iniciar o Mapeamento Mental
+
+signin-by-email = Entre com o endereço de e-mail
+sign-in = Entre
 
 login-saml = Também oferecemos suporte ao login de nível empresarial para organizações Coggle com OneLogin, Okta e outros provedores de identidade SAML 2.0.
 login-saml-where = Se você for um usuário de logon único, faça login usando a página compartilhada pelo administrador da sua organização.
 login-saml-more = Leia mais sobre Single Sign On.
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = Perguntas Frequentes
+login-colab = Posso colaborar com colegas?
+login-colab-a = Colabore e veja as alterações dos seus colegas instantaneamente
+    à medida que as fazem! Convide colaboradores por e-mail e gerencie quem pode
+    fazer alterações no canto superior direito da página do diagrama.
+
+login-free = O Coggle é gratuito?
+login-free2-a = Sim, tudo para criar ótimos mapas mentais — sem limite de
+    tempo, colaboração em tempo real, sem limite de tamanho e muito mais — é
+    gratuito. <a data-l10n-name='pricing'>Faça um upgrade para obter recursos ainda
+    mais poderosos</a> para profissionais e grandes equipes.
+
+login-what-q = O que vocês fazem com minha conta do Google/Microsoft?
+login-what-a2 = Solicitamos acesso apenas às suas informações básicas de perfil.
+    Isso inclui seu nome, foto de perfil e endereço de e-mail.
+    Não podemos acessar mais nada.
+
+login-trial = Existe um período de teste?
+login-trial-a = Você pode usar a versão gratuita pelo tempo que quiser - não há limite de tempo e não é necessário cartão!
+login-trial-a2 = Ou, para experimentar a versão atualizada gratuitamente por um mês, convide três amigos para editar seu mapa mental com você!
+
+login-help = Onde posso obter ajuda ou suporte?
+login-help-a = Visite nossa base de conhecimento em <a data-l10n-name='help'>coggle.help</a> para obter vários guias ilustrados ou envie-nos um e-mail para <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
 # orgs-pitch-title = Coggle Organizations

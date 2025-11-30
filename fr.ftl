@@ -12,6 +12,7 @@
 index-tagline-mm = Une façon claire de partager des informations complexes.
 index-signupnow = Inscrivez-vous maintenant
 index-login = Déjà inscrit ? Connectez-vous.
+index-title = Cartes mentales élégantes : aussi vite que vos pensées - Coggle
 
 index-nav-login = Connexion
 index-nav-pricing = Tarifs
@@ -82,11 +83,13 @@ feature-images = Nombre d'images <b>illimité</b>
 feature-changes = Historique des modifications <b>complet</b>
 feature-markdown = Supporte le <b>Markdown</b>
 feature-downloads = Téléchargement en format <b>PDF et image</b>
-feature-labels = Unconnected <b>text boxes</b>
+feature-labels = <b>Zones de texte</b> non connectées
 feature-exports = Exportation en tant que <b>.mm et document texte</b>
+feature-visio = Exporter pour <b>Microsoft Visio</b>
 feature-imports = Importation en tant que <b>.mm et texte</b>
 feature-chat = Commentaires et chat
 feature-embed = Diagrammes intégrables
+feature-embed2 = Diagrammes intégrables n'importe où
 plans-free-getstarted = Commencez maintenant
 
 plans-awesome-title = Awesome
@@ -94,6 +97,7 @@ plans-awesome-description = Idéal pour une utilisation <b>personnelle</b> ou <b
 plans-awesome-price = 5$ / mois
 feature-include-free = Tout ce qu'il y a dans <b>Free</b>
 feature-unlimited-private = Diagrammes privés <b>illimités</b>
+feature-shapes = <b>Plus de formes</b>
 feature-multiroot = <b>Départs multiples</b>
 feature-chathistory = Historique de chat <b>complet</b>
 feature-rearrange = <b>Auto-arrangement des branches</b>
@@ -102,6 +106,7 @@ feature-folders = <b>Dossiers partagés</b>
 feature-presentation = Mode présentation
 feature-bigimages = Chargement d'<b>images haute résolution</b>
 feature-linestyles = <b>Contrôler le style des lignes</b>
+feature-controlpoints = <b>Contrôler le chemin des lignes</b>
 feature-extendedcolours = Plus de couleurs
 feature-editable-links = Collaborer par <b>liens</b>
 plans-findoutmore = En apprendre plus
@@ -125,13 +130,15 @@ awesome-signup-monthly = Inscrivez-vous pour <span>5$</span> par mois
 awesome-signup-yearly = Inscrivez-vous pour <span>50$</span> par an
 awesome-upgrade-monthly = Upgrade (<b>$5</b>/mois)
 awesome-upgrade-yearly = Upgrade (<b>$50</b>/an)
-yearly-discount = Payez à l'année et obtenez deux mois gratuits !
+yearly-discount-months = Payez à l'année et obtenez deux mois gratuits !
+yearly-discount = Économisez 10$ en payant annuellement
 switch-yearly = Passez à la souscription annuelle
 manage-subscription = Gérer son abonnement
 
 per-month = par mois
 per-member-per-month = par membre et par mois
 forever = eternamente
+flexible = entièrement flexible
 
 awesome-feature = Awesome Plan
 org-feature = Organisation Feature
@@ -166,6 +173,8 @@ created-by-you =
     .value = Créé par vous
 shared-with-you =
     .value = Partagé avec vous
+recent-diagrams =
+    .value = Récemment mis à Jour
 folder-title =
     .placeholder = Entrer un nom de dossier
     .value = { $name }
@@ -205,6 +214,14 @@ impersonatedaccess = Vous voyez Coggle en tant que membre d'une organisation. <a
 
 doclist-loading-failed = Oh-oh! Le chargement du dossier a échoué, rafraîchissez la page pour essayer à nouveau.
 doclist-discover-whatspossible = Vous voulez tirer le meilleur de Coggle ? Découvrez <a data-l10n-name='link'>ce qui est possible</a>.
+
+sort-custom = Ordre Personnalisé
+sort-a-z = A-Z
+sort-z-a = Z-A
+sort-newest-asc = Création la plus récente
+sort-newest-desc = Trier d'abord les plus anciens
+sort-modified-asc = Dernière modification
+sort-modified-desc = Modifié le moins récemment
 
 tooltip-createorg =
     .title = Créer une organisation
@@ -257,7 +274,7 @@ settings-exports-title = Exportations
 settings-authentication-title = Authentication
 
 billing-card = La carte que vous avez enregistrée se termine par <b>{ $cardEndsIn }</b>, elle expirera en <b>{ $cardExpires }</b>.
-billing-addr = Votre code postal de facturation est <b>{ $addressZip }</b>. <a data-l10n-name='edit' class='edit'>Changer mes informations</a>
+billing-addr = Votre code postal de facturation est <b>{ $addressZip }</b>. <a data-l10n-name='edit'>Changer mes informations</a>
 
 billing-remove = Supprimer
 billing-nocard = Aucun mode de facturation n'est enregistré sur votre compte. <a data-l10n-name='setup-card'>Configurez les détails de la carte.</a>
@@ -341,9 +358,11 @@ show-children = montrer les enfants
 hide-children = cacher les enfants
 drag-to-create-link = faites glisser pour ajouter un lien
 drag-to-transplant-branch = faites glisser pour transplanter une branche
-# delete-connection = delete connection
-# reverse-connection = reverse connection
-# label-connection = label this connection
+delete-connection = supprimer la connexion
+reverse-connection = connexion inversée
+label-connection = étiqueter cette connexion
+move-branch-to-diagram = déplacer la branche vers un nouveau diagramme
+copy-branch-to-diagram = copier la branche vers un nouveau diagramme
 
 undo = annuler
 redo = refaire
@@ -354,7 +373,7 @@ add-label = ajouter un label
 help-title-title = Le Titre
 help-title-p1 = C'est le centre de votre diagramme, et son titre. Vos idées se ramifieront à partir d'ici !
 help-title-p2 = Commencez par l'éditer - de quoi parle votre diagramme?
-help-gohome = Cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.
+help-gohome-2 = Lorsque vous avez terminé la modification, cliquez sur le logo Coggle pour retourner à la page d'accueil, où vos documents sont automatiquement sauvegardés.
 help-add-node = Utilisez les boutons <div data-l10n-name='plus'>+</div> pour ajouter des branches.
 help-edit-node-p1 = Cliquez sur un objet pour éditer le texte.
 help-edit-node-p2 = Changez la taille du texte en faisant glisser le coin de la zone d'édition.
@@ -390,6 +409,9 @@ me-support-awesomethanks-p2 = Comme vous êtes un des premiers à supporter Cogg
 me-awesome = C'est vous &mdash;<b>Vous êtes Awesome !</b>
 me-manage-plan = Gérer votre souscription
 
+me-free = C'est vous –<b>Vous utilisez Coggle gratuitement.</b> <a data-l10n-name="settings">Affichez vos paramètres.</a>
+upgrade-awesome = Passez à Awesome
+
 
 messages-title = Messages
 messages-search =
@@ -422,8 +444,10 @@ public-label = Public
 # current-version = current
 
 # sharing dialog content 
-share-newlink = Nouveau lien:
-share-newlink-tip = Vous pouvez partager vos diagrammes avec les personnes qui ne sont pas connectées, mais faites attention, <strong>n'importe qui</strong> ayant ce lien pourra voir votre travail!
+share-by-link = Partage par lien
+share-newlink2 = Nouveau lien de partage
+share-embedlink = Intégrer dans HTML
+    .title = Générer du code HTML à intégrer dans une page Web
 
 share-tag-user = utilisateur
 share-tag-embed = intégrer
@@ -442,9 +466,10 @@ viewers-can-copy =
     .title = Les utilisateurs peuvent créer leurs propres copies.
 viewers-nocopy =
     .title = Les utilisateurs ne peuvent pas créer de copies.
-# revoke-link = 
-#     .title = Delete this link
+revoke-link = 
+    .title = Supprimer ce lien
 
+share-publishing = Publication
 share-open = Tout le monde peut-il voir ce diagramme ?
 share-open-detail = Les diagrammes publics peuvent être vus par tout le monde et peuvent être trouvés sur les moteurs de recherche.
 
@@ -506,11 +531,12 @@ touch-pressbackground = <b>Appuyez longuement</b> sur <b>l'arrière-plan</b> pou
 sc-and-click = + clic
 sc-and-drag = + glisser
 sc-and-mousewheel = + roulette souris
-sc-shift = Maj
-sc-ret = entrée
-sc-tab = tab
-sc-ctrl = ctrl
+sc-shift = Maj ⇧
+sc-ret = entrée ⏎
+sc-tab = tab ⇥
+sc-ctrl = ctrl ^
 sc-alt = alt
+sc-option = alt ⌥
 sc-dragdrop = cliquer-glisser
 
 sidebar-whentyping = En tapant
@@ -522,6 +548,25 @@ sidebar-sc-parent = Retour au parent:
 
 sidebar-sc-markdown-title = Formater le texte:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
+
+hint-control-line = Faites glisser pour ajuster la branche.
+hint-control-remove = Cliquez pour supprimer le point de contrôle.
+hint-delete-link = Supprimer le lien croisé.
+hint-edit-label = Modifier l'étiquette de lien croisé.
+hint-add-title = Ajouter une nouvelle branche. Voici le titre du diagramme.
+hint-add =
+    {
+        $os ->
+            [Mac] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
+           *[Win] Ajouter une nouvelle branche. Utilisez <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> pour supprimer à la place, ou <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> pour insérer.
+    }
+hint-delete = Supprimer la branche.
+hint-remove = Supprimer l'élément.
+hint-insert-rp = Insérez l'élément avant celui-ci ou faites-le glisser pour le transplanter.
+
+stat-saving = Épargne
+stat-saved = Toutes les modifications enregistrées
+stat-noaccess = Accès refusé
 
 another-fact = Un autre !
 cogglefacts-more = Lire plus...
@@ -560,6 +605,13 @@ button-upload =
     .title = Ajoutez une image ou joignez un fichier
 button-attach =
     .title = Joindre un fichier
+button-resize =
+    .title = Faites glisser pour modifier la taille du texte.
+label-fontsize = Taille de la police <span data-l10n-name="fontsize"></span>px.
+
+hint-toolong = Article trop long ! Essayez de déplacer du texte vers un nouvel élément : sélectionnez le texte puis appuyez sur  <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-movetext = Essayez de déplacer du texte vers un nouvel élément : sélectionnez le texte puis appuyez sur <kb-key data-l10n-name="tab-key">tab</kb-key>
+hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> ⌫ à supprimer
 
 # diagram not-found page 
 nodiagram-title = Diagramme introuvable !
@@ -616,32 +668,61 @@ awesome-hint-orgs =
 
 
 # Login Page /login
+login-heading = Connectez-vous à Coggle :
 index-loginwithgoogle = Se connecter avec Google
 index-signinwithapple = Se connecter avec Apple
 
-login-no-acc-q = Vous n'avez pas de compte Google ou Microsoft?
-login-no-acc-a = Aucun problème! Vous pouvez créer un compte Google ou Microsoft avec n'importe quelle adresse e-mail. Il <b>n'est pas nécessaire</b> d'avoir un compte Gmail ou Outlook.
+login-title = Coggle - Sign in to Start Mind Mapping
+
+signin-by-email = Se connecter avec e-mail
+sign-in = Se connecter
 
 login-saml = Nous prenons également en charge la connexion de niveau entreprise pour les organisations Coggle avec OneLogin, Okta et d'autres fournisseurs d'identité SAML 2.0.
 login-saml-where = Si vous utilisez l'authentification unique, connectez-vous à l'aide de la page partagée par l'administrateur de votre organisation.
 login-saml-more = En savoir plus sur l'authentification unique.
 
 login-faq = Foire Aux Questions
-login-pw-q = Pourquoi ne puis-je pas créer un nom d'utilisateur et un mot de passe?
-login-pw-a-p1 = Coggle ne prend en charge que Google Login, Microsoft Account
-    Login ou Sign in with Apple. Nous pensons que c'est le meilleur moyen
-    d'assurer la sécurité de vos données, car ces entreprises fournissent
-    toutes des services de connexion très sécurisés, qui prennent en charge
-    l'authentification à deux facteurs et d'autres options de protection des
-    comptes.
+login-colab = Puis-je collaborer avec mes collègues ?
+login-colab-a = Collaborez et visualisez instantanément les modifications
+    apportées par vos collègues ! Invitez-les par e-mail et gérez les droits de
+    modification en haut à droite de la page du diagramme.
 
-login-pw-a-p2 = Le stockage sécurisé des noms d'utilisateur et des mots de
-    passe présente de nombreuses complexités : récupération de mot de passe,
-    authentification à 2 facteurs, détection des fraudes, force brute détection
-    des attaques et stockage sécurisé des mots de passe hachés et salés. Nous
-    croient que confier ces tâches à un fournisseur externe est la bonne chose
-    à faire ; à faire, ce qui nous laisse plus de temps pour nous concentrer
-    sur la création d'une excellente cartographie mentale expérience.
+login-free = Coggle est-il gratuit ?
+login-free-a = Oui, tout ce qui permet de créer de superbes cartes mentales –
+    sans limite de temps, collaboration en temps réel, sans limite de taille, et
+    bien plus encore – est gratuit. <a data-l10n-name='pricing'>Mise à niveau pour
+    des fonctionnalités très puissantes</a> pour les professionnels et les grandes équipes.
+
+login-what-q = Que faites-vous avec mon compte Google/Microsoft ?
+login-what-a2 = Nous ne demandons l'accès qu'aux informations de base de votre profil. 
+    Cela inclut votre nom, votre photo de profil et votre adresse e-mail. 
+    Nous n'avons accès à aucun autre élément.
+
+login-trial = Existe-t-il un essai gratuit ?
+login-trial-a = Vous pouvez utiliser la version gratuite aussi longtemps que vous le souhaitez : il n'y a pas de limite de temps et aucune carte n'est requise !
+login-trial-a2 = Ou pour essayer gratuitement la version mise à niveau pendant un mois, invitez trois amis à éditer votre carte mentale avec vous !
+
+login-switch-q = Puis-je changer de méthode de connexion ?
+login-switch-a = Oui ! Tant que vous utilisez la même adresse e-mail avec vos comptes Microsoft/Apple/Google, 
+    vous pouvez utiliser n'importe lequel d'entre eux pour vous connecter au même compte Coggle.
+    Notez que si vous choisissez l'option « Masquer mon e-mail » dans la connexion Apple, votre compte ne sera pas lié.
+
+login-workschool-q = Puis-je utiliser mon compte Microsoft professionnel ou scolaire ?
+login-workschool-a = Oui, vous pouvez utiliser n'importe quel compte Microsoft, y compris les comptes personnels (anciennement Windows Live) 
+    et les comptes Azure Active Directory ou Office 365 gérés par l'entreprise, 
+    sauf si votre équipe informatique a bloqué cette fonctionnalité pour les comptes qu'elle gère.
+
+login-otherlogin-q = Puis-je utiliser un autre fournisseur d’authentification pour accéder à Coggle ?
+login-otherlogin-a-p1 = Actuellement, nous prenons en charge Google, Microsoft, la connexion avec Apple et la connexion par e-mail pour les comptes personnels.
+login-otherlogin-a-p2 = Nous prenons en charge la <a data-l10n-name="saml">connexion SAML 2.0</a> pour Coggle Organisations.
+    Si vous souhaitez héberger votre propre version de Coggle avec connexion Active Directory, contactez-nous 
+    via notre <a data-l10n-name="email">adresse commerciale d'entreprise</a>.
+
+login-help = Où puis-je obtenir de l'aide ou du support ?
+login-help-a = Visitez notre base de connaissances à <a data-l10n-name='help'>coggle.help</a> pour découvrir de nombreux guides illustrés, ou envoyez-nous un e-mail à <a data-l10n-name="email">hello@coggle.it</a>.
+
+login-pw-more-q = J'ai encore une question sur la connexion
+login-pw-more-a = Demandez-nous ! Notre adresse e-mail est : <a data-l10n-name="email">hello@coggle.it</a>.
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle Organisations

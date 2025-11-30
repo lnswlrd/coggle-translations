@@ -12,6 +12,7 @@
 index-tagline-mm = 以清楚的方式分享複雜的訊息。
 index-signupnow = 立即註冊
 index-login = 已經註冊了？在這裡登錄。
+index-title = 簡單優雅的思維導圖：與您的想法一樣快 - Coggle
 
 index-nav-login = 登錄
 index-nav-pricing = 會員
@@ -126,21 +127,23 @@ awesome-signup-yearly = 註冊 每年<span>$50美元</span>
 awesome-upgrade-monthly = 升級 (每月<b>$5美元</b>)
 awesome-upgrade-yearly = 升級 (每年<b>$50美元</b>)
 yearly-discount-percent = 支付全年節省超過15％
+yearly-discount = 按年付款可省 10 美元
 switch-yearly = 升級到每年
 manage-subscription = 管理會員計劃
 
 per-month = 每月
 per-member-per-month = 每人每月
 forever = 永遠
+flexible = 完全靈活
 
 awesome-feature = 好棒棒會員
 org-feature = 組織會員功能
 
-footer-help = Help and Documentation
+footer-help = 幫助和文檔
 footer-about = 關於
 footer-contact = 聯繫
 footer-privacy = 隱私
-footer-examples = Templates and Examples
+footer-examples = 模板和範例
 # footer-api = Developer API
 # footer-blog = Bloggle
 footer-terms = 條款
@@ -166,6 +169,8 @@ created-by-you =
     .value = 由你創建
 shared-with-you =
     .value = 與你分享
+recent-diagrams =
+    .value = 最近更新
 folder-title =
     .placeholder = 輸入文件夾名稱
     .value = { $name }
@@ -257,7 +262,7 @@ settings-exports-title = 匯出所有檔
 settings-authentication-title = 認證
 
 # billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a>Edit card details</a>
+# billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
 
 billing-remove = 刪除我的信用卡資料
 # billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
@@ -345,6 +350,8 @@ drag-to-transplant-branch = 拖移植分支
 delete-connection = 刪除連接
 reverse-connection = 反向連接
 label-connection = 標記此連接
+move-branch-to-diagram = 將分支移動到新圖表
+copy-branch-to-diagram = 將分支複製到新圖
 
 undo = 還原
 redo = 重做
@@ -391,6 +398,9 @@ me-support-awesomethanks-p2 = 作為一個 Coggle 的早期支持者，你的訂
 me-awesome = 這是你本人和 -;<b>你真棒!</b>
 me-manage-plan = 管理你的方案
 
+me-free = 這是您 &mdash;<b>您正在免費使用 Coggle。 </b> <a data-l10n-name="settings">查看您的設定。 </a>
+upgrade-awesome = 升級您的帳戶
+
 
 messages-title = 討論
 messages-search =
@@ -423,8 +433,10 @@ public-label = 公共
 current-version = 目前版本
 
 # sharing dialog content 
-share-newlink = 新鏈接:
-share-newlink-tip = 這些讓你與沒有登錄的人分享你的圖表，但要小心，他們讓<strong>任何有該鏈接的人</strong> 看到你的作品!
+share-by-link = 透過連結分享
+share-newlink2 = 建立可共享連結
+share-embedlink = 嵌入 HTML
+    .title = 產生 HTML 程式碼以嵌入網頁
 
 share-tag-user = 用戶
 share-tag-embed = 嵌入
@@ -446,6 +458,7 @@ viewers-nocopy =
 revoke-link = 
     .title = 刪除此連結。
 
+share-publishing = 出版
 share-open = 每個人都可以查看此圖嗎?
 share-open-detail = 打開圖表可以被任何人看到，並且可以通過搜索引擎找到
 
@@ -511,6 +524,7 @@ sc-ret = enter
 sc-tab = tab
 sc-ctrl = ctrl
 sc-alt = alt
+sc-option = option ⌥
 sc-dragdrop =  拖放
 
 sidebar-whentyping = 當正在輸入時
@@ -522,6 +536,25 @@ sidebar-sc-parent = 跳到上層:
 
 sidebar-sc-markdown-title = 格式化文字:
 sidebar-sc-markdown = 使用 <a data-l10n-name="link">Markdown</a> 語法
+
+hint-control-line = 拖曳來調整線條。
+hint-control-remove = 單擊即可刪除控制點。
+hint-delete-link = 刪除交叉連結。
+hint-edit-label = 編輯交叉連結標籤。
+hint-add-title = 新增分支。這是圖表的標題。
+hint-add =
+    {
+        $os ->
+            [Mac] 新增分支。使用 <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> 來刪除，或使用 <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> 來插入。
+            *[Win] 新增分支。使用 <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> 來刪除，或使用 <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> 來插入。
+    }
+hint-delete = 刪除分支。
+hint-remove = 刪除項目。
+hint-insert-rp = 在此項目之前插入項目，或拖曳以進行移植。
+
+stat-saving = 儲存
+stat-saved = 所有變更已儲存
+stat-noaccess = 拒絕訪問
 
 another-fact = 另一個!
 cogglefacts-more = 閱讀更多...
@@ -616,29 +649,42 @@ awesome-hint-orgs =
 
 
 # Login Page /login  
+login-heading = 登入 Coggle：
 index-loginwithgoogle = 使用Google帳號登錄
 index-signinwithapple = 通過Apple登錄
 
-login-no-acc-q = 沒有Google或 Microsoft 帳戶？
-login-no-acc-a = 沒關係！您可以使用任何電子郵件地址建立 Google 或 Microsoft 帳戶。<b>不需要 Gmail 或 Outlook 帳戶</b>。
+login-title = Coggle - 登入並開始心智圖
+
+signin-by-email = 使用郵件地址登入
+sign-in = 登入
 
 login-saml = 我哋仲支持使用OneLogin、Okta同其他SAML 2.0身份提供商嘅Coggle組織進行企業級登錄。
 login-saml-where = 如果您是單點登錄使用者，請使用組織管理員共用的頁面登錄。
 login-saml-more = 閱讀有關單點登錄的更多資訊。
 
-# login-faq = Frequently Asked Questions
-# login-pw-q = Why can't I create a username and password?
-# login-pw-a-p1 = Coggle only supports Google Login, Microsoft Account Login or
-#     Sign in with Apple. We believe this is the best way to keep your data safe,
-#     as these companies all provide very secure sign-in services, which support
-#     two-factor authentication and other account protection options.
-# 
-# login-pw-a-p2 = Storing usernames and passwords securely has a lot of 
-#     intricacy: password recovery, 2-factor authentication, fraud detection,
-#     brute-force attack detection, and securely storing hashed and salted
-#     passwords. We believe that leaving these tasks to an external provider is
-#     the right thing to do – leaving us more time to focus on creating a great
-#     mind-mapping experience.
+login-faq = 常見問題
+login-colab = 我可以與同事合作嗎？
+login-colab-a = 協作並即時查看同事的變更！
+    透過電子郵件邀請協作者，並在圖表頁面右上角管理誰可以進行更改。
+
+
+login-free = Coggle 免費嗎？
+login-free2-a = 是的，創建出色心智圖所需的一切——無時間限制、即時協作、無大小限制等等——都是免費的。
+    <a data-l10n-name='pricing'>升級可獲得更多強大功能</a>，適用於專業人士和大型團隊。
+
+
+
+login-what-q = 你們如何處理我的 Google/Microsoft 帳號？
+login-what-a2 = 我們僅要求存取您的基本個人資料資訊。
+    這包括您的姓名、個人資料照片和電子郵件地址。
+    我們無法存取任何其他資訊。
+
+login-trial = 有試用版嗎？
+login-trial-a = 免費版可以無限期使用，沒有時間限制，也不用銀行卡！
+login-trial-a2 = 或者，想要免費試用升級版一個月，邀請三位朋友一起編輯你的心智圖！
+
+login-help = 我在哪裡可以獲得幫助或支持？
+login-help-a = 請訪問我們的知識庫 <a data-l10n-name='help'>coggle.help</a>，獲取大量圖解指南，或發送電子郵件至 <a data-l10n-name='email'>hello@coggle.it</a>。
 
 # Organisations Landing Page (/organisations) 
 orgs-pitch-title = Coggle 組織會員

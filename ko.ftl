@@ -8,417 +8,399 @@
 # frontpage content (https://coggle.it/home), except for the plans section
 # which is described below
 
-index-tagline = The clear way to share complex information.
-index-tagline-mm = Make mind maps that flow like your ideas.
-index-signupnow = Sign Up Now
-index-login = Got an account? Log in.
-index-title = Coggle - Simple, Fast, and Powerful Mind Maps. Just Coggle it!
+index-tagline = 복잡한 정보를 쉽게 공유하는 방법.
+index-tagline-mm = 당신의 아이디어가 흐르는 듯한 마인드맵 문서를 만듭니다.
+index-signupnow = 지금 바로 가입하세요.
+index-login = 이미 등록하셨나요? 여기서 로그인하세요.
 
-index-nav-login = Login
-index-nav-pricing = Pricing
-index-nav-features = Features
-index-nav-gallery = Gallery
-index-nav-home = Home
+index-nav-login = 로그인
+index-nav-pricing = 요금제
+index-nav-features = 기능
+index-nav-gallery = 갤러리
+index-nav-home = 홈
 
-index-unleash = Unleash your creativity
-index-blurb = Produce beautiful notes quickly and easily. Share them with friends and colleagues to work on your ideas together.
-index-viewgallery = Or take a look at the <a data-l10n-name='gallery'>Coggle Gallery</a> for inspiration.
+index-unleash = 당신의 창의력을 발휘하세요.
+index-blurb = 아름다운 노트를 빠르고 쉽게 작성하세요. 친구 및 동료와 공유하여 아이디어를 함께 발전시켜 보세요.
+index-viewgallery = 또는 영감을 얻으려면 <a data-l10n-name='gallery'>Coggle 갤러리</a>를 살펴보세요.
 
-index-colab-mindmaps-flowcharts-h = Collaborative Mind Maps & Flowcharts
-index-colab-mindmaps-flowcharts-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works online in your browser: there's nothing to download or install. <a data-l10n-name='login'>Sign in</a> to use for free, forever!
-index-colab-mindmaps-flowcharts-p2 = Whether you're taking notes, brainstorming, planning, or doing something awesomely creative, it is super simple to visualise your ideas with Coggle. Share with as many friends or colleagues as you like. Changes you make will show up instantly in their browser, wherever they are in the world.
+index-colab-mindmaps-flowcharts-h = 협업 마인드맵 및 플로우차트
+index-colab-mindmaps-flowcharts-p1 = Coggle은 마인드맵과 플로우차트를 쉽게 만들고 공유할 수 있게 해줍니다. 브라우저에서 온라인으로 작동하므로 다운로드하거나 설치할 필요가 없습니다. 지금 <a data-l10n-name='login'>로그인</a>하여 다이어그램을 시작하세요!
+index-colab-mindmaps-flowcharts-p2 = 노트를 작성하거나, 브레인스토밍, 계획, 또는 창의적인 작업을 하고 있다면, Coggle을 사용하여 아이디어를 시각화하는 것이 매우 간단합니다. 원하는 만큼 친구나 동료와 공유하세요. 당신이 만든 변화는 그들이 어디에 있든지 즉시 그들의 브라우저에 나타납니다.
 
-index-trusted-h = Trusted by Over 10,000,000 People and Businesses Like You.
-index-trusted-p1 = Coggle makes it easy to create and share mindmaps and flowcharts. It works in your browser: there's nothing to download or install, and everything you need to create great mindmaps is <a data-l10n-name='free'>free, forever!</a>
+index-use-notes-h = 노트 작성하기
+index-use-notes-p = 회의 중, 복습할 때 또는 영감이 떠오르는 곳에서 Coggle을 열어 아름답고 체계적인 노트를 작성하세요.
 
-index-use-notes-h = Take Notes
-index-use-notes-p = Open up Coggle in a meeting, during your revision or wherever inspiration strikes to create beautiful, structured notes.
+index-use-brainstorm-h = 브레인스토밍
+index-use-brainstorm-p = 아이디어의 시작점을 가져와 Coggle로 물을 주고, 완전한 계획으로 성장하는 모습을 지켜보세요. 명확하게 정리되어 공유할 준비가 되어 있습니다.
 
-index-use-brainstorm-h = Brainstorm
-index-use-brainstorm-p = Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.
+index-use-share-h = 정보 공유
+index-use-share-p = 주제를 Coggle로 정리하고 모든 세부 정보를 포함하여 팀, 반 친구들 또는 세상과 공유하세요!
 
-index-use-share-h = Share Information
-index-use-share-p = Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!
+index-coggle-flow-title = 강력한 온라인 플로우차트
+index-coggle-flow-description = Coggle을 사용하여 강력한 새로운 <a data-l10n-name='flowcharts'>플로우차트 기능</a>을 활용해 프로세스, 시스템 및 알고리즘을 도식화하세요.
 
-index-coggle-flow-title = Powerful Online Flowcharts
-index-coggle-flow-description = Use Coggle to map out your processes, systems and algorithms using our powerful new <a data-l10n-name='flowcharts'>flowcharting features</a>.
+features-realtime = 실시간 협업
+features-realtime-desc = 친구와 동료를 초대하여 동시에 다이어그램 작업을 함께하세요.
 
-features-realtime = Realtime Collaboration
-features-realtime-desc = Invite your friends and colleagues to work with you, at the same time, on your diagrams.
+features-unlimited-images-title = 무제한 이미지 업로드
+features-images = 데스크탑에서 다이어그램으로 이미지를 드래그 앤 드롭하세요. 추가할 수 있는 이미지 수에 제한이 없습니다.
 
-features-unlimited-images-title = Unlimited Image Uploads
-features-images = Drag-and-drop images right from your desktop to your diagrams. There's no limit to the number of images you can add.
+features-fullhistory-title = 모든 변경 사항 저장
+features-history = 다이어그램의 모든 변경 사항을 살펴보고, 이전 버전으로 되돌리기 위해 언제든지 복사할 수 있습니다.
 
-features-fullhistory-title = Save Every Change
-features-history = Look through all the changes to a diagram and make a copy from any point to revert to a previous version.
+features-labels-title = 떠 있는 텍스트와 이미지 추가
+features-labels = 다이어그램 트리의 일부가 아닌 텍스트 레이블과 이미지를 추가하여 맵의 일부를 주석 처리하세요.
 
-features-labels-title = Add Floating Text and Images
-features-labels = Add text labels and images that aren't part of the diagram tree to annotate parts of your map.
+features-blame-title = 책임 추적
+features-blame = 다이어그램의 변경 이력을 살펴보아 누가 무엇을 언제 변경했는지 확인하세요! 다이어그램 이력 모드에 들어가면 알 수 있습니다.
 
-features-blame-title = Track accountability
-features-blame = Look through the history of your diagram to see who changed what, and when! Just enter the diagram history mode to find out.
+features-colours-title = 색상 조정
+features-colours = 가지를 클릭하여 색상 휠을 열고 원하는 색상을 선택하세요.
 
-features-colours-title = Get the color right
-features-colours = Click on a branch to bring up the color wheel and select the color you want.
+features-notifications-title = 이메일 알림
+features-notifications = 공동 작업자가 공유한 다이어그램을 편집할 때 변경 사항 요약이 포함된 이메일 알림을 받으세요.
 
-features-notifications-title = Email Notifications
-features-notifications = Get an email notification with a summary of changes when collaborators edit diagrams shared with you.
-
-features-chat-title = Comments and Chat
-features-chat = Add comments to nodes and chat with collaborators without leaving your diagram workspace.
+features-chat-title = 댓글 및 채팅
+features-chat = 노드에 댓글을 추가하고 다이어그램 작업 공간을 떠나지 않고도 공동 작업자와 채팅하세요.
 
 
 # Plans selection translations (https://coggle.it/plans, when logged in, and
 # also on the homepage)
-plans-free-forever-title = Free Forever
-plans-free-description = Ideal for discovering Coggle and occasional use.
-plans-free-price = Free forever
+plans-free-forever-title = 영원히 무료 플랜
+plans-free-description = Coggle을 발견하거나 가끔 사용하는 데 최적입니다.
+plans-free-price = 영원히 무료
 
-feature-realtime = <b>Real-time</b> collaboration
-feature-emoji = Over <b>1600</b> <a data-l10n-name="icons-link">beautiful icons</a>
-feature-diagrams = <b>Unlimited</b> public diagrams
+feature-realtime = <b>실시간</b> 협업
+feature-emoji = <b>1600</b>개 이상의 <a data-l10n-name="icons-link">아름다운 아이콘</a>
+feature-diagrams = <b>무제한</b> 공개 다이어그램
 feature-nprivate =
     { $privateDiagrams_available -> 
-          [one] 1 private diagram
-       *[other] {$privateDiagrams_available} private diagrams
+          [one] 1개의 비공개 다이어그램
+       *[other] {$privateDiagrams_available}개의 비공개 다이어그램
     }
-feature-images = <b>Unlimited</b> image uploads
-feature-changes = <b>Full</b> change history
-feature-markdown = <b>Markdown</b> support
-feature-downloads = <b>PDF & Image</b> download
-feature-labels = Unconnected <b>text boxes</b>
-feature-exports = Export as <b>.mm and text</b>
-feature-visio = Export for <b>Microsoft Visio</b>
-feature-imports = Import <b>.mm and text</b>
-feature-chat = Comments & Chat
-feature-embed = Embeddable diagrams
-feature-embed2 = Embed mindmaps anywhere
-plans-free-getstarted = Use Free
+feature-images = <b>무제한</b> 이미지 업로드
+feature-changes = <b>모든</b> 변경 이력
+feature-markdown = <b>Markdown</b> 지원
+feature-downloads = <b>PDF & 이미지</b> 다운로드
+feature-labels = 바인딩되지 않은 <b>텍스트 박스</b>
+feature-exports = <b>.mm 및 텍스트</b>로 내보내기
+feature-visio = <b>Microsoft Visio</b>로 내보내기
+feature-imports = <b>.mm 및 텍스트</b>로 가져오기
+feature-chat = 댓글 및 채팅
+feature-embed = 임베드 가능한 다이어그램
+feature-embed2 = 마인드맵을 어디에나 임베드할 수 있습니다.
+plans-free-getstarted = 시작하기
 
-plans-awesome-title = Awesome
-plans-awesome-description = Ideal for <b>personal</b> or <b>professional</b> use, with privacy and advanced features.
-plans-awesome-price = $5 / month
-feature-include-free = Everything in <b>Free</b>
-feature-unlimited-private = <b>Unlimited</b> private diagrams
-feature-shapes = <b>More Item Shapes</b>
-feature-multiroot = <b>Multiple start points</b>
-feature-chathistory = <b>Full</b> chat history
-feature-rearrange = <b>Auto-arrange branches</b>
-feature-rejoin = <b>Join Branches</b>
-feature-folders = <b>Shared folders</b>
-feature-presentation = Presentation mode
-feature-bigimages = <b>High-res image</b> uploads
-feature-linestyles = <b>Control line style</b>
-feature-controlpoints = <b>Control line paths</b>
-feature-textalign = Change <b>text alignment</b>
-feature-extendedcolours = More colors
-feature-editable-links = Collaborate by <b>link</b>
-plans-findoutmore = Find out more
+plans-awesome-title = 멋진 플랜
+plans-awesome-description = 프라이버시 보호와 고급 기능을 갖춘 <b>개인</b> 또는 <b>전문가</b> 사용에 최적의 제품입니다.
+plans-awesome-price = 5달러 / 월
+feature-include-free = <b>영원히 무료</b> 플랜의 모든 기능
+feature-unlimited-private = <b>무제한</b> 비공식 다이어그램
+feature-shapes = <b>기타 아이템 모양</b>
+feature-multiroot = <b>여러 시작 지점</b>
+feature-chathistory = <b>모든</b> 채팅 이력
+feature-rearrange = <b>브랜치 자동 정렬</b>
+feature-rejoin = <b>브랜치 연결</b>
+feature-folders = <b>공유 폴더</b>
+feature-presentation = 프레젠테이션 모드
+feature-bigimages = <b>고해상도 이미지</b> 업로드
+feature-linestyles = <b>컨트롤의 라인 스타일</b>
+feature-controlpoints = <b>컨트롤의 라인 경로</b>
+feature-textalign = <b>텍스트 정렬</b> 변경
+feature-extendedcolours = 더 많은 색상
+feature-editable-links = <b>링크</b>로 공동 작업
+plans-findoutmore = 자세히 알아보기
 
-plans-org-title = Organization
-plans-org-description = Ideal for <b>teams</b> that want to control access to their data and consolidate billing.
-plans-org-price = $8 / member / month
-feature-org-awesome = Everything from <b>Awesome</b>
-feature-org-separate = Separate Personal workspace
-feature-org-billing = Consolidated billing
-feature-bulkexport = <b>Bulk export</b>
-feature-adminpanel = <b>User & data</b> management
-feature-branding = Branded diagrams
-feature-org-saml-sso = SAML Single Sign On
+plans-org-title = 조직 플랜
+plans-org-description = 데이터 접근을 관리하고 청구를 통합하고 싶은 <b>팀</b>에 최적입니다.
+plans-org-price = $8 / 회원 / 월
+feature-org-awesome = <b>멋진</b> 플랜의 모든 기능
+feature-org-separate = 독립된 개인 작업 공간
+feature-org-billing = 청구 통합
+feature-bulkexport = <b>일괄 내보내기</b>
+feature-adminpanel = <b>사용자 및 데이터</b> 관리
+feature-branding = 브랜드 다이어그램
+feature-org-saml-sso = SAML SSO
 
-plans-select = Select
-continue-free = Continue on <b>Free</b> plan
-current-plan = Your current plan
-cancel-subscription = Cancel Subscription
-awesome-signup-monthly = Sign up <span>$5</span> per month
-awesome-signup-yearly = Sign up <span>$50</span> per year
-awesome-upgrade-monthly = Upgrade (<b>$5</b>/month)
-awesome-upgrade-yearly = Upgrade (<b>$50</b>/year)
-yearly-discount = Save $10 by paying annually
-switch-yearly = Upgrade to Yearly
-manage-subscription = Manage Subscription
+plans-select = 플랜 선택
+continue-free = <b>무료</b> 플랜 계속하기
+current-plan = 현재 플랜
+cancel-subscription = 구독 취소
+awesome-signup-monthly = 월  <span>5달러</span>에 가입
+awesome-signup-yearly = 연  <span>50달러</span>에 가입
+awesome-upgrade-monthly = (<b>5달러</b>/월)로 업그레이드
+awesome-upgrade-yearly = (<b>50달러</b>/년)로 업그레이드
+yearly-discount = 연간 결제 시 2개월 무료!!
+switch-yearly = 연간 결제로 업그레이드
+manage-subscription = 구독 관리
 
-per-month = per month
-per-member-per-month = per member per month
-forever = forever
-flexible = fully flexible
+per-month = 월액
+per-member-per-month = 회원 1인당 월액
+forever = 영구 무료 플랜
 
-awesome-feature = Awesome Plan
-org-feature = Organization Feature
+awesome-feature = 멋진 플랜
+org-feature = 조직 플랜
 
-footer-help = Help and Documentation
-footer-about = About
-footer-contact = Contact
-footer-privacy = Privacy
-footer-examples = Templates and Examples
-footer-api = Developer API
-footer-blog = Bloggle
-footer-terms = Terms
-footer-press = Press
-footer-what-is-mindmapping = What is Mindmapping?
-footer-top-uses = Top Mindmap Uses
-footer-company = Company
-footer-legal = Legal
-footer-access = Accessibility
+footer-help = 도움말 및 문서
+footer-about = 우리에 대해
+footer-contact = 문의하기
+footer-privacy = 개인정보처리방침
+footer-examples = 템플릿 및 예시
+footer-api = 개발자용 API
+footer-blog = 블로그
+footer-terms = 이용약관
+footer-press = 보도자료
+footer-what-is-mindmapping = 마인드맵이란 무엇인가?
+footer-top-uses = 마인드맵의 주요 용도
+footer-company = 회사 개요
+footer-legal = 법적 사항
 
 # logged-in homepage content (documents list): https://coggle.it when logged in
-create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = Create a Coggle Diagram
-create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>Create Diagram</span>
-    .title = You cannot create new diagrams here, select a different folder first.
+create-diagram-2-allowed = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>다이어그램 만들기</span>
+    .title = Coggle 다이어그램 만들기
+create-diagram-2-nothere = <span data-l10n-name='icon'></span> <span data-l10n-name='label'>다이어그램 만들기</span>
+    .title = 여기에서 새로운 다이어그램을 만들 수 없습니다.
 search-diagrams =
-    .placeholder = Search your diagrams
+    .placeholder = 다이어그램 검색하기
 search-public-diagrams = 
-    .placeholder = Search public diagrams
-view-gallery = Gallery
-create-folder = Create Folder
-shared-folders = Shared Folders
+    .placeholder = 공개 다이어그램 검색하기
+view-gallery = 갤러리
+create-folder = 폴더 만들기
+shared-folders = 공유 폴더
 created-by-you = 
-    .value = Created By You
+    .value = 당신이 만든 것
 shared-with-you =
-    .value = Shared With You
-recent-diagrams =
-    .value = Recently Updated
+    .value = 당신과 공유된 것
 folder-title =
-    .placeholder = Enter a folder name
+    .placeholder = 폴더 이름을 입력하세요
     .value = { $name }
-folder-areyousure = are you sure?
-folder-sure = I&#39;m sure
-logout = Log Out
-settings = Settings
-return-to-diagrams = Return to your diagrams
-upgrade-to-awesome = Upgrade to <b>Awesome</b>!
+folder-areyousure = 정말로 괜찮습니까?
+folder-sure = 괜찮습니다
+logout = 로그아웃
+settings = 설정
+return-to-diagrams = 다이어그램으로 돌아가기
+upgrade-to-awesome = <b>멋진 플랜</b>으로 업그레이드!
 # the <time></time> element is replaced with a translated string like "15 days from now", "1 month from now" etc.:
-awesome-time-remaining = Awesome trial expires <time data-l10n-name="remaining"></time>
-awesome-trial-after = Then you'll be moved onto the free plan
-want-awesome-for-free = Want Awesome for free?
+awesome-time-remaining = 멋진 플랜의 체험판 유효기간 <time data-l10n-name="remaining"></time>
+awesome-trial-after = 그 후, 영구 무료 플랜으로 전환됩니다.
+want-awesome-for-free = 무료로 멋진 플랜을 사용하고 싶으신가요?
 help-search =
-    .placeholder = Help me to...
-my-settings = My Settings & Billing
-my-settings-only = My Settings
+    .placeholder = 도와주세요
+my-settings = 설정 및 청구
+my-settings-only = 설정
 org-settings =
-    .title = Manage Organization
-org-admin = Administrator of {$orgName}
-user-about = About Coggle
-user-contact = Contact Us
-user-privacy = Privacy Policy
-user-terms = Terms and Conditions
-user-link-drive = Link Google Drive
-diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_used } of { $privateDiagrams_available }</span> private diagrams used
-diagrams-unlimited = <span data-l10n-name="count">Unlimited</span> private diagrams
+    .title = 조직 관리
+org-admin = {$orgName}의 관리자
+user-about = Coggle에 대해
+user-contact = 문의하기
+user-privacy = 개인정보처리방침
+user-terms = 이용 조건
+user-link-drive = Google Drive와 연결
+diagrams-limited = <span data-l10n-name="count"> { $privateDiagrams_available } 중 { $privateDiagrams_used } </span> 개의 비공개 다이어그램을 사용하고 있습니다.
+diagrams-unlimited = <span data-l10n-name="count">무제한의</span> 비공개 다이어그램
 
-limitedaccess = You have limited access to { $resourceName } as you're not a member
-doclist-create = <b>Welcome to Coggle!</b> – Diagrams you create will be listed here.
+limitedaccess = 당신은 회원이 아니므로, { $resourceName }에 대한 접근이 제한됩니다.
+doclist-create = <b>Coggle에 오신 것을 환영합니다!</b> – 만든 다이어그램은 여기에서 나열됩니다.
 
-doclist-shared = <b>Shared With You</b> – diagrams created by other people then shared with you are in this folder.
-doclist-folder-empty = <b>This is an empty folder!</b> – Create a new diagram here, or drag & drop diagrams into folders.
-doclist-folder-recent = <b>Recently Updated Diagrams</b> – Diagrams from any of your folders that were modified within the last month will appear here.
-doclist-readonly = <b>Welcome to Coggle!</b> – Ask the owner to grant you access to create a diagram here.
-impersonatedaccess = You're viewing Coggle as an Organization member. <a data-l10n-name='back'>Return to admin panel</a>
+doclist-shared = <b>당신과 공유됨</b> – 다른 사람들이 만든 다이어그램이 이 폴더에 있습니다.
+doclist-folder-empty = <b>빈 폴더입니다!</b> – 여기에서 새로운 다이어그램을 만들거나 다이어그램을 폴더로 드래그 앤 드롭하세요.
+doclist-folder-recent = <b>최근 업데이트된 다이어그램</b> – 최근 1개월 이내에 변경된 폴더의 다이어그램이 여기에 표시됩니다.
+doclist-readonly = <b>Coggle에 오신 것을 환영합니다!</b> – 소유자에게 여기에서 다이어그램을 만들기 위한 접근 권한을 요청하세요.
+impersonatedaccess = 조직 회원으로 Coggle을 보고 있습니다. <a data-l10n-name='back'>관리 화면으로 돌아가기</a>
 
-doclist-loading-failed = Uh-oh! Loading folder failed, refresh the page to try again.
-doclist-discover-whatspossible = Want to get more from Coggle? Discover <a data-l10n-name='link'>what's possible</a>.
-
-sort-custom = Custom Order
-sort-a-z = A-Z
-sort-z-a = Z-A
-sort-newest-asc = Created most recently
-sort-newest-desc = Created longest ago
-sort-modified-asc = Modified most recently
-sort-modified-desc = Modified least recently
+doclist-loading-failed = 어머! 폴더 로딩에 실패했습니다. 페이지를 새로 고치고 다시 시도하세요.
+doclist-discover-whatspossible = Coggle을 더 활용하고 싶으신가요? <a data-l10n-name='link'>가능성을</a> 찾아보세요.
 
 tooltip-createorg =
-    .title = Create an Organization
+    .title = 조직을 만들다
 tooltip-invite-folder =
-    .title = Add people to this folder by email
+    .title = 이메일로 이 폴더에 사람을 추가하다
 tooltip-invite =
-    .title = Invite people to join this Coggle.
+    .title = Coggle에 사람을 초대하다
 tooltip-private-icon =
-    .title = Diagram is private
+    .title = 비공개 다이어그램입니다
 tooltip-unsubscribe =
-    .title = Unsubscribe from notifications
+    .title = 알림의 배포 중지
 tooltip-subscribe =
-    .title = Subscribe to notifications
+    .title = 알림을 배포하다
 tooltip-duplicate =
-    .title = Create a copy
+    .title = 복사본을 만들다
 tooltip-remove =
-    .title = Remove diagram
+    .title = 다이어그램 삭제
 tooltip-restore =
-    .title = Restore diagram
+    .title = 다이어그램 복구
 tooltip-more =
-    .title = Diagram options
+    .title = 다이어그램 옵션
 
 # documents list contextual help items 
-help-searchcoggle-title = Search Coggle
-help-searchcoggle = Type to find your documents &mdash; quickly search for any word in a diagram!
-help-hide-for-now = Hide for now
-help-ok-got-it = OK, got it!
-help-creatediagram-title = Create a New Diagram
-help-creatediagram = Create a new Coggle Diagram to get started.
+help-searchcoggle-title = Coggle 검색
+help-searchcoggle = 문서를 찾으려면 입력하세요 — 다이어그램 내의 단어를 빠르게 검색할 수 있습니다!
+help-hide-for-now = 나중에 숨기기
+help-ok-got-it = 알겠습니다!
+help-creatediagram-title = 새로운 다이어그램 만들기
+help-creatediagram = 새로운 Coggle 다이어그램을 만들고 시작해 보세요.
 
-help-createfolder-title = Create a Folder
-help-createfolder = Create folders to share with groups of people, or categorize Coggles.
+help-createfolder-title = 폴더 만들기
+help-createfolder = 폴더를 만들어 그룹과 공유하거나 Coggle을 분류해 보세요.
 
-help-orgs-switch-title = Switch Between Organizations
-help-orgs-switch-p1 = Click to switch between Organizations.
-help-orgs-switch-p2 = Organizations let you control sharing of Coggles and work with larger teams.
+help-orgs-switch-title = 조직 간 전환
+help-orgs-switch-p1 = 클릭하면 조직이 전환됩니다.
+help-orgs-switch-p2 = 조직 기능을 사용하면 Coggle의 공유를 관리하고 더 큰 팀에서 작업할 수 있습니다.
 
 
 # Settings page content 
-settings-plans-title = Plans
-settings-billing-title = Billing & Invoices
-settings-recommend-title = Recommend
-settings-emails-title = Communication
-settings-language-title = Language
-settings-communication-title = Communication
-settings-account-title = Close Account
-settings-profile-title = Profile
-settings-membership-title = Members
-settings-exports-title = Exports
-settings-authentication-title = Authentication
+settings-plans-title = 플랜
+settings-billing-title = 청구 및 청구서
+settings-recommend-title = 추천
+settings-emails-title = 이메일 주소
+settings-language-title = 언어
+settings-communication-title = 커뮤니케이션
+settings-account-title = 계정 닫기
+settings-profile-title = 프로필
+settings-membership-title = 멤버
+settings-exports-title = 내보내기
+settings-authentication-title = 인증
 
-billing-card = The card we have on file for you ends in <b>{ $cardEndsIn }</b>, it expires on <b>{ $cardExpires }</b>.
-billing-addr = The billing post code we have for you is <b>{ $addressZip }</b>. <a data-l10n-name="edit">Edit card details</a>
+billing-card = 우리가 등록한 당신의 카드의 끝번호는 <b>{ $cardEndsIn }</b>이며, 유효기간은 <b>{ $cardExpires }</b>입니다.
+billing-addr = 등록된 청구지의 우편번호는 <b>{ $addressZip }</b>입니다. <a data-l10n-name="edit">카드 정보를 수정하다</a>
 
-billing-remove = Remove
-billing-nocard = There are no billing methods saved on your account. <a data-l10n-name='setup-card'>Setup card details</a>
+billing-remove = 삭제
+billing-nocard = 당신의 계정에는 저장된 청구 방법이 없습니다. <a data-l10n-name='setup-card'>카드 정보를 설정하다</a>
 
-summary-free-plan = You don't have a subscription yet. <a data-l10n-name="subscribe">Upgrade now!</a>
-summary-active-plan = You're on the <code>{ $planName }</code> plan. <a data-l10n-name="cancel">Cancel subscription</a> or <a data-l10n-name="compare">compare plans</a>.
-summary-uy-1 = Get two months free (<b>save 15%</b>) by paying annually. <a data-l10n-name="upgrade">Upgrade (<b>$50</b>)</a>
-summary-uy-2 = Time remaining on your current plan will be automatically deducted from the cost of the upgrade.
-summary-uy-c1 = Confirm upgrade? We'll charge your card on file between $45 and $50 based on the remaining time on your monthly plan. Your new subscription renewal date will be in one year.
-summary-confirm = Confirm Upgrade
-summary-ending-2 = You have cancelled your <code>{$planName}</code> subscription</b>, and will not be billed again. You can continue to use the paid features until the end of the period you've already paid for.<br> <a data-l10n-name='resub'>Resubscribe</a>
-summary-overdue-plan = Your subscription is inactive due to an overdue payment. You can fix this by updating your card or getting in touch with us at <b>hello@coggle.it</b>.
-complete-payment = You can <a data-l10n-name='invoice-link'>view and complete</a> the outstanding payment, or <a data-l10n-name='cancel'>cancel subscription</a>.
+summary-free-plan = 아직 구독이 없습니다. <a data-l10n-name="subscribe">지금 업그레이드하세요!</a>
+summary-active-plan = 현재 <code>{ $planName }</code> 플랜을 이용 중입니다. <a data-l10n-name="cancel">구독을 취소하다</a> 또는 <a data-l10n-name="compare">플랜을 비교하다</a>.
+summary-uy-1 = 연간 결제로 2개월이 무료로 제공됩니다 (<b>15% 할인</b>)<a data-l10n-name="upgrade">업그레이드하기 (<b>50달러</b>)</a>
+summary-uy-2 = 현재 플랜의 남은 기간은 자동으로 업그레이드 요금에서 차감됩니다.
+summary-uy-c1 = 업그레이드를 확인하시겠습니까? 남은 월간 플랜에 따라 45달러에서 50달러 사이에서 등록된 카드로 청구됩니다. 새로운 구독의 갱신일은 1년 후가 됩니다.
+summary-confirm = 업그레이드를 확인
+summary-ending-2 = <code>{$planName}</code> 구독을 취소했습니다.</b> 이제 더 이상 청구되지 않습니다. 이미 지불한 기간이 끝날 때까지 유료 기능을 계속 이용할 수 있습니다.<br> <a data-l10n-name='resub'>다시 구독하기</a>
+summary-overdue-plan = 지불이 지연되어 구독이 비활성화되었습니다. 카드 정보를 업데이트하거나 <b>hello@coggle.it</b>로 문의해 주세요.
+complete-payment = 미지급 결제를 <a data-l10n-name='invoice-link'>확인하고 완료하다</a> 또는 <a data-l10n-name='cancel'>구독을 취소하다</a>할 수 있습니다.
 
-me-communication-title = Communication
-me-emails-title = Email Addresses
-me-emails-primary = (primary)
-me-emailstip = We'll only email your primary address, but you can receive invites to any of the others.
-me-talktome = Talk to me: 
-me-diagram-notifications = Diagram notifications: 
+me-communication-title = 커뮤니케이션
+me-emails-title = 이메일 주소
+me-emails-primary = (기본)
+me-emailstip = 기본 주소에만 이메일을 보내지만, 다른 주소에서도 초대를 받을 수 있습니다.
+me-talktome = 나에게 이야기하기:
+me-diagram-notifications = 다이어그램 알림:
 
-slider-yes = YES
-slider-no = NO
+slider-yes = 예
+slider-no = 아니요
 
-me-language-title = Choose Your Preferred Language
-me-language-tip = Help us provide Coggle in your native language, or add something that's missing by contributing to our <a data-l10n-name='translate-link'>translations project</a> on Github!
-me-language-questions = If you have any questions about translations – or you have corrections or improvements and you're not sure how to help out, just drop us an email at <a data-l10n-name='translate-email'>translate@coggle.it</a>.
+me-language-title = 원하는 언어 선택
+me-language-tip = Coggle을 모국어로 이용할 수 있도록 도와주세요. 또한, Github에서 우리의 <a data-l10n-name='translate-link'>번역 프로젝트</a>에 참여하여 부족한 부분을 추가할 수도 있습니다!
+me-language-questions = 번역에 대한 질문이 있거나 – 수정 및 개선 제안이 있으며, 어떻게 도와야 할지 모르겠다면 <a data-l10n-name='translate-email'>translate@coggle.it</a>로 언제든지 이메일을 보내주세요.
 
-profile-title = Your Appearance in Coggle
+profile-title = Coggle에서의 당신의 표시 이름
 
 invite-n-more =
     { $introduceCount ->
-           [one] One more invite to try Awesome for free!
-        *[other] Invite <span>{$introduceCount}</span> more people to try Awesome for free!
+           [one] 한 사람을 더 초대하여 멋진 플랜을 무료로 체험해 보세요!
+        *[other] <span>{$introduceCount}</span> 명을 초대하여 멋진 플랜을 무료로 체험해 보세요!
     }
 
-recommend-coggle = Recommend Coggle
-recommend-share-link = Either invite collaborators to your diagrams, or share your referral link via <a data-l10n-name='email'>email</a>.
+recommend-coggle = Coggle을 추천하다
+recommend-share-link = 다이어그램에 공동 편집자를 초대하거나 소개 링크를 <a data-l10n-name='email'>이메일</a>로 공유하세요.
 
-claim-free-month = Claim your free month of Coggle Awesome!
-claim-redeem = Redeem Now
+claim-free-month = Coggle 멋진 플랜의 무료 월을 획득하세요!
+claim-redeem = 지금 바로 교환하세요.
 
 
-close-account-title = Close Your Coggle Account
-close-account = Permanently close your free Coggle account.
-close-account-description = This process is <b>irreversible</b> and will take effect immediately. You will lose access to all your diagrams, so make sure you have exported any you want to keep.
-close-account-button = Close my Account
+close-account-title = Coggle 계정을 삭제하다
+close-account = Coggle 계정을 완전히 삭제합니다.
+close-account-description = 이 과정은 <b>되돌릴 수 없습니다</b> 및 즉시 실행됩니다. 모든 다이어그램에 대한 접근 권한을 상실하므로, 저장하고 싶은 다이어그램을 내보내는 것을 잊지 마세요.
+close-account-button = 계정을 삭제하다
 close-account-enteremail =
-    .placeholder = Type your email address
-close-account-confirm = CONFIRM
+    .placeholder = 이메일 주소를 입력하세요
+close-account-confirm = 확인
 
 # Gallery Content (/gallery) 
-gallery-title = The Coggle Gallery
-gallery-blurb2 = A selection of the best diagrams made with Coggle!
-gallery-blurb3 = Find inspiration, templates and examples from our selection of the best public diagrams and mind maps made with Coggle.
-gallery-folder-blurb3 = <b>The Coggle Gallery</b> - A selection of the best diagrams made with Coggle!
+gallery-title = Coggle 갤러리
+gallery-blurb2 = Coggle에서 만들어진 최고의 다이어그램 셀렉션!
+gallery-blurb3 = Coggle에서 만들어진 최고의 공개 다이어그램이나 마인드맵에서 영감을 얻고, 템플릿 및 예제를 찾으세요.
+gallery-folder-blurb3 = <b>Coggle 갤러리</b> - Coggle에서 만들어진 최고의 다이어그램 선택!
 
 
 # Diagram content 
-guide-click-here = click here
-guide-or-here = or here
-click-to-edit = click to edit
-click-to-edit-title = Click to edit title
-tap-to-edit = tap to edit
-tap-to-edit-title = Tap to edit title
-unnamed-diagram = Unnamed Diagram
+guide-click-here = 여기를 클릭
+guide-or-here = 또는 여기
+click-to-edit = 편집하려면 클릭
+click-to-edit-title = 제목을 편집하려면 클릭
+tap-to-edit = 편집하려면 탭
+tap-to-edit-title = 제목을 편집하려면 탭
+unnamed-diagram = 이름 없는 다이어그램
 
-add-branch = add branch
-copy-branch = copy branch
-add-to-discussion = add to discussion
-comment-on-this = comment on this
-auto-arrange = auto-arrange
-pick-colour = pick color
-choose-style = choose style
-choose-shape = choose shape
+add-branch = 브랜치 추가
+copy-branch = 브랜치 복사
+add-to-discussion = 토론에 추가
+comment-on-this = 댓글 달기
+auto-arrange = 자동 배치
+pick-colour = 색상 선택
+choose-style = 스타일 선택
+choose-shape = 모양 선택
 
 # (remove and item *and* all of its children)
-delete-branch = delete branch
+delete-branch = 브랜치 삭제
 
-remove-item = remove item
-show-children = show children
-hide-children = hide children
-drag-to-create-link = drag to create link
-drag-to-transplant-branch = drag to transplant branch
-delete-connection = delete connection
-reverse-connection = reverse connection
-label-connection = label this connection
-move-branch-to-diagram = move branch to new diagram
-copy-branch-to-diagram = copy branch to new diagram
+remove-item = 아이템 삭제
+show-children = 자식 요소 보기
+hide-children = 자식 요소 숨기기
+drag-to-create-link = 드래그하여 링크 만들기
+drag-to-transplant-branch = 드래그하여 브랜치 옮기기
+delete-connection = 연결 삭제
+reverse-connection = 연결 반전
+label-connection = 이 연결에 레이블 추가
 
-undo = undo
-redo = redo
-paste-branch = paste branch
-drag-zoom-page = drag to zoom page
-add-label = add label
+undo = 실행 취소
+redo = 다시 실행
+paste-branch = 브랜치 붙여넣기
+drag-zoom-page = 드래그하여 페이지 확대
+add-label = 레이블 추가
 
-help-title-title = The Diagram Title
-help-title-p1 = This is the center of your diagram, and its title. Your ideas will branch out from here!
-help-title-p2 = Start by editing it - what is your diagram about?
-help-gohome-2 = When you have finished editing, click the logo to go back to the homepage. Your documents are automatically saved.
-help-add-node = Use the <div data-l10n-name='plus'>+</div> buttons to add branches.
-help-edit-node-p1 = Click any item to edit the text.
-help-edit-node-p2 = Change the text size by dragging the corner of the editing area.
-help-move-node = Drag any text to move it.
-help-node-menu = Right click on items to access the menu. Here you can add, remove, copy, and arrange branches.
-help-morehelp-touch-title = Shortcuts and Help
-help-morehelp2-title = Keyboard Shortcuts and Help
-help-morehelp-touch = Open the help sheet to see shortcuts, and quickly search help articles
-help-morehelp2 = Open the help sheet to see keyboard shortcuts, and quickly search help articles
+help-title-title = 다이어그램 제목
+help-title-p1 = 이는 다이어그램의 중심이며, 그 제목입니다. 여기에서 아이디어가 확장됩니다!
+help-title-p2 = 먼저 제목을 편집해 보세요 - 당신의 다이어그램은 무엇에 대한 것인가요?
+help-gohome = Coggle 로고를 클릭하여 홈페이지로 돌아갑니다. 문서는 자동으로 저장됩니다.
+help-add-node = <div data-l10n-name='plus'>+</div> 버튼을 사용하여 브랜치를 추가합니다.
+help-edit-node-p1 = 원하는 아이템을 클릭하여 텍스트를 편집합니다.
+help-edit-node-p2 = 편집 영역의 모서리를 드래그하여 텍스트 크기를 조정합니다.
+help-move-node = 텍스트를 드래그하여 이동합니다.
+help-node-menu = 아이템을 오른쪽 클릭하여 메뉴에 접근합니다. 여기에서 브랜치를 추가, 삭제, 복사, 배치할 수 있습니다.
+help-morehelp-touch-title = 단축키와 도움말
+help-morehelp2-title = 키보드 단축키와 도움말
+help-morehelp-touch = 도움말 시트를 열어 단축키를 확인하고, 도움말 기사를 빠르게 검색합니다.
+help-morehelp2 = 도움말 시트를 열어 키보드 단축키를 확인하고, 도움말 기사를 빠르게 검색합니다.
 
-help-multiline = Add multiple lines of text using [ctrl] + [enter], or by dragging the resize grip before typing.
-help-toolbar-invite-title = Work With Others
-help-toolbar-invite = Click to invite people to edit or view this Coggle. You can control people's permissions by clicking on their icon.
-help-toolbar-invitemulti-title = Invite Multiple People
-help-toolbar-invitemulti = To save time, you can invite multiple people at once: type (or paste) email addresses separated by spaces, commas<b>,</b> or semicolons<b>;</b>
+help-multiline = [ctrl] + [enter]를 사용하거나, 리사이즈 그립을 드래그하여 입력하기 전에 여러 줄의 텍스트를 추가합니다.
+help-toolbar-invite-title = 다른 사람과 함께 작업
+help-toolbar-invite = 클릭하여 다른 사람을 이 Coggle에 초대합니다. 아이콘을 클릭하여 상대방의 권한을 관리할 수 있습니다.
+help-toolbar-invitemulti-title = 여러 사람을 초대
+help-toolbar-invitemulti = 시간을 절약하기 위해 여러 사람을 한 번에 초대할 수 있습니다: 공백, 쉼표<b>,</b> 또는 세미콜론<b>;</b>으로 구분하여 이메일 주소를 입력(또는 붙여넣기)합니다.
 
-help-toolbar-invitedonefaster-p1 = Now you've been editing for a while, try getting things done faster by collaborating!
-help-toolbar-invitedonefaster-p2 = Invite people to edit with you, and see their changes instantly.
-help-toolbar-inviteflow-title-2 = Invite a Co-worker by Email
-help-toolbar-sharing-title = Shareable Links and Publishing
-help-toolbar-sharing = You can also publish your diagram, or create secret shareable links to give access only to people with that link.
-help-inactive-invite = Work with friends to help bring your ideas to life!<br>Invite by email here.
+help-toolbar-invitedonefaster-p1 = 잠시 편집을 계속했으므로, 협업으로 작업 속도를 높여보세요!
+help-toolbar-invitedonefaster-p2 = 다른 사람을 초대하여 함께 편집하고, 그 변경 사항을 즉시 확인할 수 있습니다.
+help-toolbar-inviteflow-title-2 = 공유 링크 및 공개
+help-toolbar-sharing-title = 다이어그램을 공개하거나, 이 링크를 가진 사람만 접근할 수 있는 비밀 공유 링크를 생성할 수 있습니다.
+help-toolbar-sharing = 친구와 협력하여 아이디어를 실현합시다!<br>여기에서 이메일로 초대합니다.
+help-inactive-invite = 친구와 협력하여 아이디어를 실현합시다!<br>여기에서 이메일로 초대합니다.
 
-me-as-awesome-orgmember-p1 = This is you &mdash; you're viewing Coggle as an <b>organization member</b>.
-me-as-awesome-orgmember-p2 = This means you get all the great features from the <a data-l10n-name="awesome">Coggle Awesome</a> plan too!
+me-as-awesome-orgmember-p1 = 이것은 당신입니다 — 당신은 <b>조직 멤버</b>로서 Coggle을 보고 있습니다.
+me-as-awesome-orgmember-p2 = 즉, <a data-l10n-name="awesome">Coggle 멋진</a> 플랜의 모든 멋진 기능을 이용할 수 있습니다!
 
-free-awesome = Want Awesome for free?
-upgrade-now = Upgrade Now
+free-awesome = 멋진 플랜을 무료로 이용하고 싶으신가요?
+upgrade-now = 지금 업그레이드
 
-me-support-awesomethanks-p1 = <b>Thanks for supporting Coggle!</b>
-me-support-awesomethanks-p2 = For being an early Coggle supporter, you get all the benefits of the <a data-l10n-name="awesome">Coggle Awesome</a> plan included in your subscription!
+me-support-awesomethanks-p1 = <b>Coggle을 지원해 주셔서 감사합니다!</b>
+me-support-awesomethanks-p2 = 조기에 Coggle을 지원해 주셔서, <a data-l10n-name="awesome">Coggle 멋진</a> 플랜의 모든 혜택이 구독에 포함되어 있습니다!
 
-me-awesome = This is you &mdash;<b>You're Awesome!</b>
-me-manage-plan = Manage your plan
+me-awesome = 이것은 당신입니다 —<b>당신은 멋진 플랜입니다!</b>
+me-manage-plan = 플랜을 관리하기
 
-me-free = This is you &mdash;<b>You're using Coggle for free.</b> <a data-l10n-name="settings">View your settings.</a>
-upgrade-awesome = Upgrade to Awesome
+me-free = 이것은 당신입니다 &mdash;<b>당신은 Coggle을 무료로 사용하고 있습니다.</b> <a data-l10n-name="settings">설정을 확인하세요.</a>
+upgrade-awesome = Awesome으로 업그레이드하세요
 
 
-messages-title = Messages
+messages-title = 메시지
 messages-search =
     .placeholder = Search
 messages-start = You've reached the start!
@@ -449,10 +431,10 @@ public-label = Public
 current-version = current
 
 # sharing dialog content 
-share-by-link = Sharing by Link
-share-newlink2 = Create Private Link
-share-embedlink = Embed in html
-    .title = Generate HTML code to embed in a web page
+share-by-link = 링크로 공유
+share-newlink2 = 공유 가능한 링크 만들기
+share-embedlink = HTML에 삽입
+    .title = 웹 페이지에 삽입할 HTML 코드 생성
 
 share-tag-user = user
 share-tag-embed = embed
@@ -474,9 +456,9 @@ viewers-nocopy =
 revoke-link = 
     .title = Delete this link.
 
-share-publishing = Publishing
-share-open = Can everyone view this diagram?
-share-open-detail = Public diagrams can be viewed by anyone and may appear in our <a data-l10n-name="gallery">Gallery</a>
+share-publishing = 출판
+share-open = 모두가 이 다이어그램을 볼 수 있나요?
+share-open-detail = 공개 다이어그램은 누구나 볼 수 있으며 <a data-l10n-name="gallery">갤러리</a>에 나타날 수 있습니다.
 
 # download dialog content 
 download-pdf = Download PDF
@@ -503,7 +485,7 @@ access-remove = Remove { $user_givenName }
 # Notification Messages 
 readonly-warning = You cannot edit this diagram. <div data-l10n-name="suggestion">If you need to edit it, ask the author to give you permission.</div>
 
-websocket-offline = Real-time changes are unavailable due to the network. <a data-l10n-name='helpfix'>More information</a>
+websocket-offline = Changes may be slow due to network issues. <a data-l10n-name="helpfix">Help me fix this!</a>
 
 disconnect-warning = <b>Connection lost</b>: Changes may not be saved
 
@@ -536,12 +518,11 @@ touch-pressbackground = <b>Long-press</b> on the <b>background</b> to add <b>lab
 sc-and-click = + click
 sc-and-drag = + drag
 sc-and-mousewheel = + mousewheel
-sc-shift = shift ⇧
-sc-ret = enter ⏎
-sc-tab = tab ⇥
-sc-ctrl = ctrl ^
+sc-shift = shift
+sc-ret = enter
+sc-tab = tab
+sc-ctrl = ctrl
 sc-alt = alt
-sc-option = option ⌥
 sc-dragdrop = drag and drop
 
 sidebar-whentyping = When typing
@@ -553,40 +534,6 @@ sidebar-sc-parent = Jump to Parent:
 
 sidebar-sc-markdown-title = Format text:
 sidebar-sc-markdown = use <a data-l10n-name="link">Markdown</a>
-
-hint-control-line = Drag to adjust line.
-hint-control-remove = Click to remove control point.
-hint-delete-link = Delete cross-link.
-hint-edit-label = Edit cross-link label.
-hint-add-title = Add new branch. This is the diagram's title.
-hint-add =
-    {
-        $os ->
-            [Mac] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-option}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-           *[Win] Add new branch. Use <kb-key data-l10n-name="delete-key">{sc-ctrl}</kb-key> to delete instead, or <kb-key data-l10n-name="insert-key">{sc-shift}</kb-key> to insert.
-    }
-hint-delete = Delete branch.
-hint-remove = Delete item.
-hint-insert-rp = Insert item before this one, or drag to transplant.
-
-toggle-checkbox = Toggle checkbox.
-hint-edit-touch = Tap to edit, drag to move.
-hint-transplant = Drag to transplant.
-hint-drag-only = Drag to move this node only.
-hint-can-drag-only = 
-    {
-        $os ->
-            [Mac] Hold <kb-key data-l10n-name='move-only-key'>{sc-option}</kb-key> to drag this node only.
-           *[Win] Hold <kb-key data-l10n-name='move-only-key'>{sc-alt}</kb-key> to drag this node only.
-    }
-hint-edit = Click to edit, drag to move.
-hint-present-touch = Tap to show and hide branches.
-hint-present-all = Click to show and hide all levels.
-hint-present = Click to show and hide branches. Hold <kb-key data-l10n-name='insert-key'>{sc-shift}</kb-key> to expand all levels.
-
-stat-saving = Saving
-stat-saved = All changes saved
-stat-noaccess = Access denied
 
 another-fact = another!
 cogglefacts-more = Read more...
@@ -631,7 +578,6 @@ label-fontsize = Font size <span data-l10n-name="fontsize"></span>px.
 
 hint-toolong = Item too long! Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
 hint-movetext = Try moving some text to a new item: select the text then press <kb-key data-l10n-name="tab-key">tab</kb-key>
-hint-backdel = <kb-key data-l10n-name="backspace-key">⌫</kb-key> to delete
 
 commentcount = 
     { $count ->
@@ -694,39 +640,39 @@ awesome-hint-orgs =
 
 
 # Login Page /login
-login-heading = Sign in to Coggle:
-index-loginwithgoogle = Sign in with Google
-index-signinwithapple = Sign in with Apple
+login-heading = Coggle에 로그인:
+index-loginwithgoogle = Google 계정으로 로그인
+index-signinwithapple = Apple 계정으로 로그인
 
-login-title = Coggle - Sign in to Start Mind Mapping
+login-title = Coggle - 마인드 매핑을 시작하려면 로그인하세요
 
-signin-by-email = Sign in by Email Address
-sign-in = Sign in
+signin-by-email = 이메일 주소로 로그인
+sign-in = 로그인
 
 login-saml = We also support enterprise grade login for Coggle Organizations with OneLogin, Okta, and other SAML 2.0 identity providers.
 login-saml-where = If you're a single-sign on user, log in using the page shared by your Organization's administrator.
 login-saml-more = Read more about Single Sign On.
 
-login-faq = Frequently Asked Questions
-login-colab = Can I Collaborate with Colleagues?
-login-colab-a = Collaborate and see your co-workers' changes instantly as they
-    make them! Invite collaborators by email, and manage who can make changes in
-    the top right of the diagram page. 
+login-faq = 자주 묻는 질문
+login-colab = 동료들과 협업할 수 있나요?
+login-colab-a = 동료들이 변경하는 내용을 즉시 확인하고 협업하세요! 
+    이메일로 공동작업자를 초대하고, 다이어그램 페이지 오른쪽 상단에서 누가
+    변경할 수 있는지 관리할 수 있습니다.
 
-login-free = Is Coggle Free?
-login-free2-a = Yes, everything to create great mind maps – no time limit,
-    real-time collaboration, no size limit, and more – is free. <a
-    data-l10n-name='pricing'>Upgrade for extra powerful features</a> for 
-    professionals and large teams.
+login-free = Coggle은 무료인가요?
+login-free2-a = 네, 훌륭한 마인드 맵을 만드는 데 필요한 모든 기능(시간 제한
+    없음, 실시간 협업, 크기 제한 없음 등)이 무료입니다. 전문가와 대규모 팀을 위한
+    <a data-l10n-name='pricing'>강력한 기능을 추가로 이용하려면
+    업그레이드하세요</a>.
 
-login-what-q = What do you do with my Google/Microsoft account?
-login-what-a2 = We only ask for access to your basic profile information. 
-    This includes your name, profile picture and your email address. 
-    We can't access anything else.
+login-what-q = Google/Microsoft 계정은 어떻게 사용되나요?
+login-what-a2 = 저희는 귀하의 기본 프로필 정보에 대한 접근 권한만 
+    요청합니다. 여기에는 이름, 프로필 사진, 이메일 주소가 
+    포함됩니다. 그 외 다른 정보는 접근할 수 없습니다.
 
-login-trial = Is there a Trial?
-login-trial-a = You can use the free version for as long as you like - there's no  time limit, and no card required!
-login-trial-a2 = Or to try the upgraded version for free for a month, invite three friends to edit your mind map with you!
+login-trial = 체험판이 있나요?
+login-trial-a = 무료 버전은 원하는 기간 동안 사용하실 수 있습니다. 기간 제한도 없고, 카드도 필요 없습니다!
+login-trial-a2 = 업그레이드 버전을 한 달 동안 무료로 체험해 보시려면, 친구 세 명을 초대하여 함께 마인드맵을 편집해 보세요!
 
 login-switch-q = Can I switch between login methods?
 login-switch-a = Yes! As long as you use the same email address with your Microsoft/Apple/Google accounts, 
@@ -739,13 +685,13 @@ login-workschool-a = Yes, you can use any Microsoft account, including both pers
     unless your IT team have blocked this feature for accounts they manage.
 
 login-otherlogin-q = Can I use another Authentication Provider to access Coggle?
-login-otherlogin-a-p1 = Currently we  support Google, Microsoft, Sign in with Apple, and Email login for personal accounts.
+login-otherlogin-a-p1 = Currently we only support Google, Microsoft and Sign in with Apple account login for personal accounts.
 login-otherlogin-a-p2 = We support <a data-l10n-name="saml">SAML 2.0 login</a> for Coggle Organisations, 
     and if you're interested in hosting your own version of Coggle with Active Directory login then get in 
     touch with our <a data-l10n-name="email">enterprise sales address</a>.
 
-login-help =  Where can I get Help or Support?
-login-help-a = Visit our knowledge base at <a data-l10n-name='help'>coggle.help</a> for lots of illustrated guides, or email us at <a data-l10n-name="email">hello@coggle.it</a>.
+login-help = 도움말이나 지원은 어디서 받을 수 있나요?
+login-help-a = 다양한 그림 가이드를 보려면 <a data-l10n-name='help'>coggle.help</a>의 지식 베이스를 방문하거나 <a data-l10n-name="email">hello@coggle.it</a>로 이메일을 보내주세요.
 
 login-pw-more-q = I've still got a question about login
 login-pw-more-a = Ask us! Our email is <a data-l10n-name="email">hello@coggle.it</a>.
@@ -903,7 +849,7 @@ about-itp = Then check out our <a data-l10n-name="kit">press kit</a> or, <a data
 
 
 # Coggle Facts 
-fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\( LaTeX here \\) to try it out!
+fact-math = Did you know you can write math in Coggles? (Yeah, geeky!) Use \\\\( LaTeX here \\\\) to try it out!
 
 fact-collaborate = Did you know that you can collaborate in real-time with others? You can! Use the (+) button in the top right.
 
@@ -921,7 +867,7 @@ fact-download = Did you know that you can download your Coggle as a PDF or an im
 
 fact-markdown = Did you know that Coggle uses <a data-l10n-name='link'>markdown syntax</a>? It does!<br>Try out links like this: &lt;http://example.com&gt;
 
-fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\( LaTeX here \\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
+fact-latex = Did you know Coggle supports LaTeX formulae? It does!<br>Use \\\\( LaTeX here \\\\) to try it out! Check out <a data-l10n-name='link'>this link</a> for syntax help.
 
 fact-move = Want that item on a different part of the Coggle? No problem! Hold shift while dragging the (+) button of an item to reattach it somewhere else.
 
@@ -937,7 +883,7 @@ fact-pdf = You can download your Coggle as a PDF! Look for the download button i
 
 fact-png = You can download your Coggle as an Image! Look for the download button in the top right of the screen.
 
-fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\( \LaTeX here \\) to try it out! Here's <a data-l10n-name='link'>a syntax guide</a>.
+fact-latex2 = Did you know Coggle supports LaTeX for math? It does!<br>Use \\\\( \\LaTeX here \\\\) to try it out! Here\'s <a data-l10n-name='link'>a syntax guide</a>.
 
 fact-history = Did you know you can view the history of who changed what, when in your Coggle? You can! Click the clock icon in the top right.
 
@@ -957,7 +903,7 @@ fact-text-size2 = Did you know you can change the font? You can!<br>Drag the cor
 
 fact-text-size3 = Did you know you can change the text size? You can!<br>Drag the corner of the text editing area.
 
-fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here's the <a data-l10n-name='link'>complete reference</a>.
+fact-md-reference = Did you know you can use Markdown in Coggles to add links, images and more? You can!<br>Here\'s the <a data-l10n-name='link'>complete reference</a>.
 
 fact-multiline-keys = Did you know you can break text over multiple lines? You can! Hold [ctrl] while pressing [return] to insert a newline. You can also drag the corner of the edit field, and then use [return] normally.
 
@@ -971,11 +917,11 @@ fact-image-size = Did you know we support a Markdown extension to specify image 
 
 fact-bold-kbshort = Did you know you can use keyboard shortcuts to add **bold text** in Coggles? You can! Just press [ctrl]+[b] (or [cmd]+[b] on macs) with the text you want bold selected.
 
-fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here's how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
+fact-shortcuts-1 = Did you know you can edit your Coggle using only the keyboard? You can, here\'s how:<br>[tab] to add a child node<br>[shift]+[tab] to move to the parent<br>[shift]+[return] to add a sibling
 
 fact-shortcuts-2 = Did you know you can select which branch to edit using keyboard shortcuts? You can!<br>Use [alt]+[shift]+arrow keys to move along branches.
 
-fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here's an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
+fact-task-lists = Did you know you can <a data-l10n-name='link'>Markdown</a> to add checklists to Coggles? You can, here\'s an example:<br>- [ ] unchecked checkbox<br>- [X] checked checkbox<br>Clicking on a checkbox automatically changes the markdown, too.
 
 fact-api-1 = Did you know we have an API? We do! Programs can use it to create, examine and manipulate Coggles automatically.
 
